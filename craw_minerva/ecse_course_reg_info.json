@@ -1,0 +1,1442 @@
+{
+    "ECSE 200": {
+      "001": {
+        "title": "Electric Circuits 1.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "08:35 AM-09:25 AM",
+        "capital": "78",
+        "actual": "88",
+        "full reg rate": "1.1282051282051282",
+        "instructor": "Thomas   Szkopek ",
+        "location": "ENGTR 1100"
+      }
+    },
+    "ECSE 202": {
+      "001": {
+        "title": "Introduction to Software Development.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "08:35 AM-09:25 AM",
+        "capital": "92",
+        "actual": "102",
+        "full reg rate": "1.108695652173913",
+        "instructor": "Frank P   Ferrie ",
+        "location": "ENGMD 279"
+      }
+    },
+    "ECSE 205": {
+      "001": {
+        "title": "Probability and Statistics for Engineers",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "11:35 AM-12:25 PM",
+        "capital": "90",
+        "actual": "91",
+        "full reg rate": "1.011111111111111",
+        "instructor": "Donald Peter   Davis ",
+        "location": "ENGTR 0100"
+      },
+      "005": {
+        "title": "Probability and Statistics for Engineers",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "M",
+        "time": "11:35 AM-12:25 PM",
+        "capital": "51",
+        "actual": "47",
+        "full reg rate": "0.9215686274509803",
+        "instructor": "Jamal   Saboune ",
+        "location": "ENGMD 280"
+      }
+    },
+    "ECSE 206": {
+      "001": {
+        "title": "Introduction to Signals and Systems.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "148",
+        "actual": "136",
+        "full reg rate": "0.918918918918919",
+        "instructor": "Lawrence R   Chen ",
+        "location": "ENGMC 204"
+      }
+    },
+    "ECSE 210": {
+      "001": {
+        "title": "Electric Circuits 2.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TRF",
+        "time": "08:35 AM-09:25 AM",
+        "capital": "201",
+        "actual": "79",
+        "full reg rate": "0.39303482587064675",
+        "instructor": "Donald Peter   Davis ",
+        "location": "ENGMC 204"
+      }
+    },
+    "ECSE 211": {
+      "001": {
+        "title": "Design Principles and Methods.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "10:35 AM-11:25 AM",
+        "capital": "130",
+        "actual": "104",
+        "full reg rate": "0.8",
+        "instructor": "David Alister   Lowther , Frank P   Ferrie ",
+        "location": "ENGMC 13"
+      }
+    },
+    "ECSE 221": {
+      "001": {
+        "title": "Introduction to Computer Engineering.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "12:35 PM-01:25 PM",
+        "capital": "24",
+        "actual": "1",
+        "full reg rate": "0.041666666666666664",
+        "instructor": "Donald Peter   Davis ",
+        "location": "ENGMC 304"
+      }
+    },
+    "ECSE 222": {
+      "001": {
+        "title": "Digital Logic.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "12:35 PM-01:25 PM",
+        "capital": "141",
+        "actual": "132",
+        "full reg rate": "0.9361702127659575",
+        "instructor": "Donald Peter   Davis ",
+        "location": "ENGMC 304"
+      }
+    },
+    "ECSE 223": {
+      "001": {
+        "title": "Model-Based Programming.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MTR",
+        "time": "10:35 AM-11:25 AM",
+        "capital": "148",
+        "actual": "186",
+        "full reg rate": "1.2567567567567568",
+        "instructor": "Gunter   Mussbacher ",
+        "location": "ENGTR 0100"
+      }
+    },
+    "ECSE 251": {
+      "001": {
+        "title": "Electric and Magnetic Fields.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "02:35 PM-03:25 PM",
+        "capital": "75",
+        "actual": "81",
+        "full reg rate": "1.08",
+        "instructor": "Dennis Dionysios  Giannacopoulos ",
+        "location": "MAASS 10"
+      }
+    },
+    "ECSE 305": {
+      "001": {
+        "title": "Probability and Random Signals 1.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "11:35 AM-12:25 PM",
+        "capital": "58",
+        "actual": "56",
+        "full reg rate": "0.9655172413793104",
+        "instructor": "Donald Peter   Davis ",
+        "location": "ENGTR 0100"
+      },
+      "005": {
+        "title": "Probability and Random Signals 1.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "M",
+        "time": "11:35 AM-12:25 PM",
+        "capital": "27",
+        "actual": "17",
+        "full reg rate": "0.6296296296296297",
+        "instructor": "Jamal   Saboune ",
+        "location": "ENGMD 280"
+      }
+    },
+    "ECSE 306": {
+      "001": {
+        "title": "Fundamentals of Signals and Systems.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "50",
+        "actual": "23",
+        "full reg rate": "0.46",
+        "instructor": "Lawrence R   Chen ",
+        "location": "ENGMC 204"
+      }
+    },
+    "ECSE 307": {
+      "001": {
+        "title": "Linear Systems and Control.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "MWF",
+        "time": "01:35 PM-02:25 PM",
+        "capital": "96",
+        "actual": "53",
+        "full reg rate": "0.5520833333333334",
+        "instructor": "Aditya   Mahajan ",
+        "location": "ENGTR 0100"
+      }
+    },
+    "ECSE 308": {
+      "001": {
+        "title": "Introduction to Communication Systems and Networks.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "MWF",
+        "time": "08:35 AM-09:25 AM",
+        "capital": "78",
+        "actual": "40",
+        "full reg rate": "0.5128205128205128",
+        "instructor": "Tho   Le-Ngoc ",
+        "location": "ENGMC 304"
+      }
+    },
+    "ECSE 309": {
+      "001": {
+        "title": "Fundamentals of Communication Systems and Networks.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "08:35 AM-09:25 AM",
+        "capital": "78",
+        "actual": "27",
+        "full reg rate": "0.34615384615384615",
+        "instructor": "Tho   Le-Ngoc ",
+        "location": "ENGMC 304"
+      }
+    },
+    "ECSE 310": {
+      "001": {
+        "title": "Thermodynamics of Computing.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "01:35 PM-02:25 PM",
+        "capital": "78",
+        "actual": "73",
+        "full reg rate": "0.9358974358974359",
+        "instructor": "Andrew G   Kirk ",
+        "location": "ENGTR 1100"
+      }
+    },
+    "ECSE 316": {
+      "001": {
+        "title": "Signals and Networks.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TRF",
+        "time": "09:35 AM-10:25 AM",
+        "capital": "78",
+        "actual": "18",
+        "full reg rate": "0.23076923076923078",
+        "instructor": "Ioannis   Psaromiligkos ",
+        "location": "ENGMD 276"
+      }
+    },
+    "ECSE 321": {
+      "001": {
+        "title": "Introduction to Software Engineering.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "90",
+        "actual": "74",
+        "full reg rate": "0.8222222222222222",
+        "instructor": "Daniel   Varro ",
+        "location": "ENGMC 11"
+      }
+    },
+    "ECSE 324": {
+      "001": {
+        "title": "Computer Organization.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "MTR",
+        "time": "09:35 AM-10:25 AM",
+        "capital": "95",
+        "actual": "97",
+        "full reg rate": "1.0210526315789474",
+        "instructor": "Marzieh   Amini ",
+        "location": "ENGTR 0100"
+      }
+    },
+    "ECSE 325": {
+      "001": {
+        "title": "Digital Systems.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "12:35 PM-01:25 PM",
+        "capital": "148",
+        "actual": "53",
+        "full reg rate": "0.3581081081081081",
+        "instructor": "James J   Clark ",
+        "location": "ENGTR 0100"
+      }
+    },
+    "ECSE 330": {
+      "001": {
+        "title": "Introduction to Electronics.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "WF",
+        "time": "02:35 PM-03:55 PM",
+        "capital": "48",
+        "actual": "12",
+        "full reg rate": "0.25",
+        "instructor": "David V   Plant ",
+        "location": "ENGTR 0100"
+      }
+    },
+    "ECSE 331": {
+      "001": {
+        "title": "Electronics.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "WF",
+        "time": "02:35 PM-03:55 PM",
+        "capital": "96",
+        "actual": "43",
+        "full reg rate": "0.4479166666666667",
+        "instructor": "David V   Plant ",
+        "location": "ENGTR 0100"
+      }
+    },
+    "ECSE 334": {
+      "001": {
+        "title": "Introduction to Microelectronics.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "01:05 PM-02:25 PM",
+        "capital": "130",
+        "actual": "53",
+        "full reg rate": "0.4076923076923077",
+        "instructor": "Mourad N   El-Gamal ",
+        "location": "ENGTR 1100"
+      }
+    },
+    "ECSE 335": {
+      "001": {
+        "title": "Microelectronics.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "TR",
+        "time": "01:05 PM-02:25 PM",
+        "capital": "78",
+        "actual": "10",
+        "full reg rate": "0.1282051282051282",
+        "instructor": "Mourad N   El-Gamal ",
+        "location": "ENGTR 1100"
+      }
+    },
+    "ECSE 351": {
+      "001": {
+        "title": "Electromagnetic Fields.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "02:35 PM-03:25 PM",
+        "capital": "25",
+        "actual": "7",
+        "full reg rate": "0.28",
+        "instructor": "Dennis Dionysios  Giannacopoulos ",
+        "location": "MAASS 10"
+      }
+    },
+    "ECSE 352": {
+      "001": {
+        "title": "Electromagnetic Waves.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MTR",
+        "time": "11:35 AM-12:25 PM",
+        "capital": "8",
+        "actual": "19",
+        "full reg rate": "2.375",
+        "instructor": "Martin   Rochette ",
+        "location": "ENGTR 1100"
+      }
+    },
+    "ECSE 354": {
+      "001": {
+        "title": "Electromagnetic Wave Propagation.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "MTR",
+        "time": "11:35 AM-12:25 PM",
+        "capital": "70",
+        "actual": "52",
+        "full reg rate": "0.7428571428571429",
+        "instructor": "Martin   Rochette ",
+        "location": "ENGTR 1100"
+      }
+    },
+    "ECSE 361": {
+      "001": {
+        "title": "Power Engineering.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MTR",
+        "time": "12:35 PM-01:25 PM",
+        "capital": "28",
+        "actual": "37",
+        "full reg rate": "1.3214285714285714",
+        "instructor": "Xiaozhe   Wang ",
+        "location": "ENGTR 1100"
+      }
+    },
+    "ECSE 362": {
+      "001": {
+        "title": "Fundamentals of Power Engineering.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "MTR",
+        "time": "12:35 PM-01:25 PM",
+        "capital": "50",
+        "actual": "39",
+        "full reg rate": "0.78",
+        "instructor": "Xiaozhe   Wang ",
+        "location": "ENGTR 1100"
+      }
+    },
+    "ECSE 396": {
+      "001": {
+        "title": "Honours Research Laboratory Rotation 1.",
+        "type": "Independent Study",
+        "credit": "1.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "50",
+        "actual": "2",
+        "full reg rate": "0.04",
+        "instructor": "Fabrice   Labeau , Ioannis   Psaromiligkos ",
+        "location": "TBA"
+      }
+    },
+    "ECSE 397": {
+      "001": {
+        "title": "Honours Research Laboratory Rotation 2.",
+        "type": "Independent Study",
+        "credit": "1.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "50",
+        "actual": "12",
+        "full reg rate": "0.24",
+        "instructor": "Fabrice   Labeau , Ioannis   Psaromiligkos ",
+        "location": "TBA"
+      }
+    },
+    "ECSE 421": {
+      "001": {
+        "title": "Embedded Systems.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "100",
+        "actual": "42",
+        "full reg rate": "0.42",
+        "instructor": "Jeremy   Cooperstock ",
+        "location": "ENGTR 0100"
+      }
+    },
+    "ECSE 423": {
+      "001": {
+        "title": "Fundamentals of Photonics.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "WF",
+        "time": "10:05 AM-11:25 AM",
+        "capital": "25",
+        "actual": "19",
+        "full reg rate": "0.76",
+        "instructor": "Andrew G   Kirk ",
+        "location": "ENGTR 0060"
+      }
+    },
+    "ECSE 425": {
+      "001": {
+        "title": "Computer Architecture.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MW",
+        "time": "08:35 AM-09:55 AM",
+        "capital": "62",
+        "actual": "53",
+        "full reg rate": "0.8548387096774194",
+        "instructor": "Hakim   Mellah ",
+        "location": "ENGTR 1090"
+      }
+    },
+    "ECSE 426": {
+      "001": {
+        "title": "Microprocessor Systems.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "W",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "56",
+        "actual": "52",
+        "full reg rate": "0.9285714285714286",
+        "instructor": "Zeljko   Zilic ",
+        "location": "ENGTR 0060"
+      }
+    },
+    "ECSE 427": {
+      "001": {
+        "title": "Operating Systems.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TRF",
+        "time": "08:35 AM-09:25 AM",
+        "capital": "93",
+        "actual": "96",
+        "full reg rate": "1.032258064516129",
+        "instructor": "Rola   Harmouche ",
+        "location": "MDHAR G-10"
+      }
+    },
+    "ECSE 428": {
+      "001": {
+        "title": "Software Engineering Practice.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "M",
+        "time": "05:35 PM-08:25 PM",
+        "capital": "130",
+        "actual": "128",
+        "full reg rate": "0.9846153846153847",
+        "instructor": "Robert   Sabourin ",
+        "location": "ENGMC 13"
+      }
+    },
+    "ECSE 432": {
+      "001": {
+        "title": "Physical Basis: Transistor Devices.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "08:35 AM-09:55 AM",
+        "capital": "25",
+        "actual": "17",
+        "full reg rate": "0.68",
+        "instructor": "Ishiang   Shih , Pegah   Ghamari ",
+        "location": "ENGTR 0060"
+      }
+    },
+    "ECSE 434": {
+      "001": {
+        "title": "Microelectronics Laboratory.",
+        "type": "Lecture",
+        "credit": "2.000",
+        "days": "M",
+        "time": "03:35 PM-05:25 PM",
+        "capital": "89",
+        "actual": "82",
+        "full reg rate": "0.9213483146067416",
+        "instructor": "Mourad N   El-Gamal ",
+        "location": "ENGMC 11"
+      }
+    },
+    "ECSE 435": {
+      "001": {
+        "title": "Mixed-Signal Test Techniques.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MW",
+        "time": "04:35 PM-05:55 PM",
+        "capital": "25",
+        "actual": "13",
+        "full reg rate": "0.52",
+        "instructor": "Gordon W   Roberts ",
+        "location": "ENGTR 0060"
+      }
+    },
+    "ECSE 436": {
+      "001": {
+        "title": "Signal Processing Hardware.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "08:35 AM-09:55 AM",
+        "capital": "34",
+        "actual": "26",
+        "full reg rate": "0.7647058823529411",
+        "instructor": "Jan   Bajcsy ",
+        "location": "ENGTR 2110"
+      }
+    },
+    "ECSE 443": {
+      "001": {
+        "title": "Introduction to Numerical Methods in Electrical Engineering.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MTR",
+        "time": "10:35 AM-11:25 AM",
+        "capital": "125",
+        "actual": "135",
+        "full reg rate": "1.08",
+        "instructor": "Hannah   Michalska ",
+        "location": "MAASS 10"
+      }
+    },
+    "ECSE 456": {
+      "001": {
+        "title": "ECSE Design Project 1.",
+        "type": "Project",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "107",
+        "actual": "97",
+        "full reg rate": "0.9065420560747663",
+        "instructor": "Fabrice   Labeau , Ioannis   Psaromiligkos ",
+        "location": "TBA"
+      }
+    },
+    "ECSE 457": {
+      "001": {
+        "title": "ECSE Design Project 2.",
+        "type": "Project",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "143",
+        "actual": "125",
+        "full reg rate": "0.8741258741258742",
+        "instructor": "Fabrice   Labeau , Ioannis   Psaromiligkos ",
+        "location": "TBA"
+      }
+    },
+    "ECSE 460": {
+      "001": {
+        "title": "Appareillage électrique (Electrical Power Equipment).",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "W",
+        "time": "09:30 AM-12:20 PM",
+        "capital": "10",
+        "actual": "2",
+        "full reg rate": "0.2",
+        "instructor": "Geza   Joos ",
+        "location": "POLY "
+      },
+      "002": {
+        "title": "Appareillage électrique (Electrical Power Equipment).",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "W",
+        "time": "09:30 AM-12:20 PM",
+        "capital": "5",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": "Geza   Joos ",
+        "location": "POLY "
+      }
+    },
+    "ECSE 461": {
+      "001": {
+        "title": "Electric Machinery.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "10:05 AM-11:25 AM",
+        "capital": "176",
+        "actual": "179",
+        "full reg rate": "1.0170454545454546",
+        "instructor": "Xiaozhe   Wang ",
+        "location": "ENGMC 304"
+      }
+    },
+    "ECSE 463": {
+      "001": {
+        "title": "Electric Power Generation.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "M",
+        "time": "09:30 AM-12:20 PM",
+        "capital": "15",
+        "actual": "8",
+        "full reg rate": "0.5333333333333333",
+        "instructor": "Geza   Joos , François   Bouffard ",
+        "location": "POLY "
+      }
+    },
+    "ECSE 466": {
+      "001": {
+        "title": "Réseaux de distribution.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "M",
+        "time": "09:30 AM-12:20 PM",
+        "capital": "15",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": "Geza   Joos ",
+        "location": "POLY "
+      }
+    },
+    "ECSE 467": {
+      "001": {
+        "title": "Comportement des réseaux électriques.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "T",
+        "time": "09:30 AM-12:20 PM",
+        "capital": "10",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": "Geza   Joos ",
+        "location": "POLY "
+      },
+      "002": {
+        "title": "Comportement des réseaux électriques.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "T",
+        "time": "09:30 AM-12:20 PM",
+        "capital": "5",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": "Geza   Joos ",
+        "location": "POLY "
+      }
+    },
+    "ECSE 468": {
+      "001": {
+        "title": "Electricité industrielle (Industrial Power Systems).",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "T",
+        "time": "09:30 AM-12:20 PM",
+        "capital": "10",
+        "actual": "3",
+        "full reg rate": "0.3",
+        "instructor": "Geza   Joos ",
+        "location": "POLY "
+      },
+      "002": {
+        "title": "Electricité industrielle (Industrial Power Systems).",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "T",
+        "time": "09:30 AM-12:20 PM",
+        "capital": "5",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": "Geza   Joos ",
+        "location": "POLY "
+      }
+    },
+    "ECSE 469": {
+      "001": {
+        "title": "Protection des réseaux électriques.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "R",
+        "time": "09:30 AM-12:20 PM",
+        "capital": "10",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": "Geza   Joos ",
+        "location": "POLY "
+      },
+      "002": {
+        "title": "Protection des réseaux électriques.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "R",
+        "time": "09:30 AM-12:20 PM",
+        "capital": "5",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": "TBA",
+        "location": "POLY "
+      }
+    },
+    "ECSE 485": {
+      "001": {
+        "title": "IC Fabrication Laboratory.",
+        "type": "Lecture",
+        "credit": "2.000",
+        "days": "T",
+        "time": "10:05 AM-10:55 AM",
+        "capital": "25",
+        "actual": "6",
+        "full reg rate": "0.24",
+        "instructor": "Ishiang   Shih , Pegah   Ghamari ",
+        "location": "ENGTR 0070"
+      }
+    },
+    "ECSE 486": {
+      "001": {
+        "title": "Power Laboratory.",
+        "type": "Lecture",
+        "credit": "2.000",
+        "days": "T",
+        "time": "04:35 PM-05:25 PM",
+        "capital": "39",
+        "actual": "31",
+        "full reg rate": "0.7948717948717948",
+        "instructor": "Mohammad Hossain   Mohammadi ",
+        "location": "ENGTR 0060"
+      }
+    },
+    "ECSE 493": {
+      "001": {
+        "title": "Control and Robotics Laboratory.",
+        "type": "Lecture",
+        "credit": "2.000",
+        "days": "M",
+        "time": "12:35 PM-01:25 PM",
+        "capital": "20",
+        "actual": "22",
+        "full reg rate": "1.1",
+        "instructor": "Dena   Firoozi ",
+        "location": "ENGTR 0070"
+      }
+    },
+    "ECSE 496": {
+      "001": {
+        "title": "Honours Research Laboratory Rotation 3.",
+        "type": "Independent Study",
+        "credit": "1.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "25",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": "Fabrice   Labeau , Ioannis   Psaromiligkos ",
+        "location": "TBA"
+      }
+    },
+    "ECSE 497": {
+      "001": {
+        "title": "Honours Research Laboratory Rotation 4.",
+        "type": "Independent Study",
+        "credit": "1.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "25",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": "Fabrice   Labeau , Ioannis   Psaromiligkos ",
+        "location": "TBA"
+      }
+    },
+    "ECSE 498": {
+      "001": {
+        "title": "Honours Thesis 1.",
+        "type": "Thesis Course",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "16",
+        "actual": "11",
+        "full reg rate": "0.6875",
+        "instructor": "Fabrice   Labeau , Ioannis   Psaromiligkos ",
+        "location": "TBA"
+      }
+    },
+    "ECSE 499": {
+      "001": {
+        "title": "Honours Thesis 2.",
+        "type": "Thesis Course",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "25",
+        "actual": "14",
+        "full reg rate": "0.56",
+        "instructor": "Fabrice   Labeau , Ioannis   Psaromiligkos ",
+        "location": "TBA"
+      }
+    },
+    "ECSE 506": {
+      "001": {
+        "title": "Stochastic Control & Decision Theory.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "WF",
+        "time": "08:35 AM-09:55 AM",
+        "capital": "30",
+        "actual": "11",
+        "full reg rate": "0.36666666666666664",
+        "instructor": "Aditya   Mahajan ",
+        "location": "MAASS 328"
+      },
+      "002": {
+        "title": "Stochastic Control & Decision Theory.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "WF",
+        "time": "08:35 AM-09:55 AM",
+        "capital": "5",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": "Aditya   Mahajan ",
+        "location": "MAASS 328"
+      }
+    },
+    "ECSE 507": {
+      "001": {
+        "title": "Optimization and Optimal Control.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "WF",
+        "time": "10:05 AM-11:25 AM",
+        "capital": "48",
+        "actual": "32",
+        "full reg rate": "0.6666666666666666",
+        "instructor": "Tim   Hoheisel ",
+        "location": "ENGTR 1100"
+      },
+      "002": {
+        "title": "Optimization and Optimal Control.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "WF",
+        "time": "10:05 AM-11:25 AM",
+        "capital": "14",
+        "actual": "12",
+        "full reg rate": "0.8571428571428571",
+        "instructor": "Tim   Hoheisel ",
+        "location": "ENGTR 1100"
+      }
+    },
+    "ECSE 510": {
+      "001": {
+        "title": "Filtering and Prediction for Stochastic Systems.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MW",
+        "time": "10:05 AM-11:25 AM",
+        "capital": "23",
+        "actual": "17",
+        "full reg rate": "0.7391304347826086",
+        "instructor": "Peter Edwin   Caines ",
+        "location": "BURN 708"
+      },
+      "002": {
+        "title": "Filtering and Prediction for Stochastic Systems.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MW",
+        "time": "10:05 AM-11:25 AM",
+        "capital": "2",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": "Peter Edwin   Caines ",
+        "location": "BURN 708"
+      }
+    },
+    "ECSE 523": {
+      "001": {
+        "title": "Speech Communications.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "15",
+        "actual": "4",
+        "full reg rate": "0.26666666666666666",
+        "instructor": "Douglas D   O'Shaughnessy ",
+        "location": "ENGTR 0070"
+      },
+      "002": {
+        "title": "Speech Communications.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "10",
+        "actual": "1",
+        "full reg rate": "0.1",
+        "instructor": "Douglas D   O'Shaughnessy ",
+        "location": "ENGTR 0070"
+      }
+    },
+    "ECSE 527": {
+      "001": {
+        "title": "Optical Engineering.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "WF",
+        "time": "10:05 AM-11:25 AM",
+        "capital": "15",
+        "actual": "4",
+        "full reg rate": "0.26666666666666666",
+        "instructor": "Andrew G   Kirk ",
+        "location": "ENGTR 0060"
+      },
+      "002": {
+        "title": "Optical Engineering.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "WF",
+        "time": "10:05 AM-11:25 AM",
+        "capital": "10",
+        "actual": "2",
+        "full reg rate": "0.2",
+        "instructor": "Andrew G   Kirk ",
+        "location": "ENGTR 0060"
+      }
+    },
+    "ECSE 535": {
+      "001": {
+        "title": "Nanoelectronic Devices.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "01:35 PM-02:25 PM",
+        "capital": "15",
+        "actual": "2",
+        "full reg rate": "0.13333333333333333",
+        "instructor": "Thomas   Szkopek ",
+        "location": "ENGTR 2110"
+      },
+      "002": {
+        "title": "Nanoelectronic Devices.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "01:35 PM-02:25 PM",
+        "capital": "10",
+        "actual": "7",
+        "full reg rate": "0.7",
+        "instructor": "Thomas   Szkopek ",
+        "location": "ENGTR 2110"
+      }
+    },
+    "ECSE 536": {
+      "001": {
+        "title": "RF Microelectronics.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "10:05 AM-11:25 AM",
+        "capital": "15",
+        "actual": "15",
+        "full reg rate": "1.0",
+        "instructor": "Hani Hisham Mohammad  Tawfik ",
+        "location": "ENGTR 0060"
+      },
+      "002": {
+        "title": "RF Microelectronics.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "10:05 AM-11:25 AM",
+        "capital": "10",
+        "actual": "12",
+        "full reg rate": "1.2",
+        "instructor": "Hani Hisham Mohammad  Tawfik ",
+        "location": "ENGTR 0060"
+      }
+    },
+    "ECSE 563": {
+      "001": {
+        "title": "Power Systems Operation and Planning.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "15",
+        "actual": "11",
+        "full reg rate": "0.7333333333333333",
+        "instructor": "François   Bouffard ",
+        "location": "ENGTR 0060"
+      },
+      "002": {
+        "title": "Power Systems Operation and Planning.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "10",
+        "actual": "3",
+        "full reg rate": "0.3",
+        "instructor": "François   Bouffard ",
+        "location": "ENGTR 0060"
+      }
+    },
+    "ECSE 596": {
+      "001": {
+        "title": "Optical Waveguides.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "08:35 AM-09:55 AM",
+        "capital": "15",
+        "actual": "9",
+        "full reg rate": "0.6",
+        "instructor": "Odile   Liboiron-Ladouceur ",
+        "location": "SH688 495"
+      },
+      "002": {
+        "title": "Optical Waveguides.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "08:35 AM-09:55 AM",
+        "capital": "10",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": "Odile   Liboiron-Ladouceur ",
+        "location": "SH688 495"
+      }
+    },
+    "ECSE 610": {
+      "001": {
+        "title": "Wireless Communications.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "WF",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "28",
+        "actual": "17",
+        "full reg rate": "0.6071428571428571",
+        "instructor": "Tho   Le-Ngoc ",
+        "location": "MDHAR G-01"
+      }
+    },
+    "ECSE 611": {
+      "001": {
+        "title": "Software Analytics.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "TR",
+        "time": "12:35 PM-02:25 PM",
+        "capital": "20",
+        "actual": "8",
+        "full reg rate": "0.4",
+        "instructor": "Shane   McIntosh ",
+        "location": "ENGTR 2100"
+      }
+    },
+    "ECSE 620": {
+      "001": {
+        "title": "Information Theory and Coding.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "WF",
+        "time": "03:35 PM-05:25 PM",
+        "capital": "18",
+        "actual": "13",
+        "full reg rate": "0.7222222222222222",
+        "instructor": "Harry   Leib ",
+        "location": "SH688 1088"
+      }
+    },
+    "ECSE 626": {
+      "001": {
+        "title": "Statistical Computer Vision.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "TR",
+        "time": "08:35 AM-09:55 AM",
+        "capital": "30",
+        "actual": "21",
+        "full reg rate": "0.7",
+        "instructor": "Tal   Arbel ",
+        "location": "ENGTR 2120"
+      }
+    },
+    "ECSE 651": {
+      "001": {
+        "title": "M.Eng. Project 1.",
+        "type": "Project",
+        "credit": "1.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "100",
+        "actual": "5",
+        "full reg rate": "0.05",
+        "instructor": "TBA",
+        "location": "TBA"
+      }
+    },
+    "ECSE 652": {
+      "001": {
+        "title": "M.Eng. Project 2.",
+        "type": "Project",
+        "credit": "2.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "100",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": "TBA",
+        "location": "TBA"
+      }
+    },
+    "ECSE 653": {
+      "001": {
+        "title": "M.Eng. Project 3.",
+        "type": "Project",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "100",
+        "actual": "6",
+        "full reg rate": "0.06",
+        "instructor": "TBA",
+        "location": "TBA"
+      }
+    },
+    "ECSE 654": {
+      "001": {
+        "title": "M.Eng. Project 4.",
+        "type": "Project",
+        "credit": "4.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "100",
+        "actual": "4",
+        "full reg rate": "0.04",
+        "instructor": "TBA",
+        "location": "TBA"
+      }
+    },
+    "ECSE 655": {
+      "001": {
+        "title": "M.Eng. Project 5.",
+        "type": "Project",
+        "credit": "4.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "100",
+        "actual": "3",
+        "full reg rate": "0.03",
+        "instructor": "TBA",
+        "location": "TBA"
+      }
+    },
+    "ECSE 656": {
+      "001": {
+        "title": "M.Eng. Project 6.",
+        "type": "Project",
+        "credit": "4.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "100",
+        "actual": "4",
+        "full reg rate": "0.04",
+        "instructor": "TBA",
+        "location": "TBA"
+      }
+    },
+    "ECSE 681": {
+      "001": {
+        "title": "Colloquium in Electrical Engineering.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "MW",
+        "time": "03:35 PM-05:25 PM",
+        "capital": "25",
+        "actual": "18",
+        "full reg rate": "0.72",
+        "instructor": "Daniel   Varro ",
+        "location": "SH688 1076"
+      }
+    },
+    "ECSE 682": {
+      "001": {
+        "title": "Topics in Computers and Circuits.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "TR",
+        "time": "10:05 AM-11:25 AM",
+        "capital": "20",
+        "actual": "6",
+        "full reg rate": "0.3",
+        "instructor": "Zeljko   Zilic ",
+        "location": "ENGTR 2110"
+      }
+    },
+    "ECSE 688": {
+      "001": {
+        "title": "Recent Advances in Electrical Engineering 1.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "MW",
+        "time": "12:35 PM-02:25 PM",
+        "capital": "20",
+        "actual": "8",
+        "full reg rate": "0.4",
+        "instructor": "Sharmistha   Bhadra ",
+        "location": "ENGTR 2100"
+      }
+    },
+    "ECSE 691": {
+      "001": {
+        "title": "Thesis Research 1.",
+        "type": "Thesis Course",
+        "credit": "4.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "100",
+        "actual": "18",
+        "full reg rate": "0.18",
+        "instructor": "TBA",
+        "location": "TBA"
+      }
+    },
+    "ECSE 692": {
+      "001": {
+        "title": "Thesis Research 2.",
+        "type": "Thesis Course",
+        "credit": "4.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "100",
+        "actual": "30",
+        "full reg rate": "0.3",
+        "instructor": "TBA",
+        "location": "TBA"
+      }
+    },
+    "ECSE 693": {
+      "001": {
+        "title": "Thesis Research 3.",
+        "type": "Thesis Course",
+        "credit": "4.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "100",
+        "actual": "28",
+        "full reg rate": "0.28",
+        "instructor": "TBA",
+        "location": "TBA"
+      }
+    },
+    "ECSE 694": {
+      "001": {
+        "title": "Thesis Research 4.",
+        "type": "Thesis Course",
+        "credit": "4.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "100",
+        "actual": "31",
+        "full reg rate": "0.31",
+        "instructor": "TBA",
+        "location": "TBA"
+      }
+    },
+    "ECSE 695": {
+      "001": {
+        "title": "Thesis Research 5.",
+        "type": "Thesis Course",
+        "credit": "4.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "100",
+        "actual": "16",
+        "full reg rate": "0.16",
+        "instructor": "TBA",
+        "location": "TBA"
+      }
+    },
+    "ECSE 696": {
+      "001": {
+        "title": "Thesis Research 6.",
+        "type": "Thesis Course",
+        "credit": "4.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "100",
+        "actual": "24",
+        "full reg rate": "0.24",
+        "instructor": "TBA",
+        "location": "TBA"
+      }
+    },
+    "ECSE 697": {
+      "001": {
+        "title": "Thesis Research 7.",
+        "type": "Thesis Course",
+        "credit": "4.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "100",
+        "actual": "29",
+        "full reg rate": "0.29",
+        "instructor": "TBA",
+        "location": "TBA"
+      }
+    },
+    "ECSE 701": {
+      "001": {
+        "title": "Ph.D. Qualifying Examination.",
+        "type": "Comprehensive Exam",
+        "credit": "0.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "100",
+        "actual": "15",
+        "full reg rate": "0.15",
+        "instructor": "TBA",
+        "location": "TBA"
+      }
+    },
+    "ECSE 702": {
+      "001": {
+        "title": "Ph.D. Research Plan Proposal.",
+        "type": "Proposal",
+        "credit": "0.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "100",
+        "actual": "9",
+        "full reg rate": "0.09",
+        "instructor": "TBA",
+        "location": "TBA"
+      }
+    },
+    "ECSE 703": {
+      "001": {
+        "title": "Doctoral Research Seminar.",
+        "type": "Lecture",
+        "credit": "0.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "100",
+        "actual": "8",
+        "full reg rate": "0.08",
+        "instructor": "TBA",
+        "location": "TBA"
+      }
+    }
+  }
