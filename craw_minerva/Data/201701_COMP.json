@@ -1,0 +1,1229 @@
+{
+  "COMP 102": {
+    "001": {
+      "title": "Computers and Computing.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "TR",
+      "time": "02:35 PM-03:55 PM",
+      "capital": "75",
+      "actual": "69",
+      "full reg rate": "0.92",
+      "instructor": [
+        "Derek Ruths"
+      ],
+      "location": "ENGTR 1090"
+    },
+    "002": {
+      "title": "Computers and Computing.",
+      "type": "Final Exam",
+      "credit": "0.000",
+      "days": "R",
+      "time": "02:00 PM-05:00 PM",
+      "capital": "69",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "BURN 1B45"
+    }
+  },
+  "COMP 202": {
+    "001": {
+      "title": "Foundations of Programming.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "TR",
+      "time": "01:05 PM-02:25 PM",
+      "capital": "188",
+      "actual": "189",
+      "full reg rate": "1.0053191489361701",
+      "instructor": [
+        "Bentley James Oakes",
+        "Giulia Alberini"
+      ],
+      "location": "ENGMC 304"
+    },
+    "002": {
+      "title": "Foundations of Programming.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "TR",
+      "time": "02:35 PM-03:55 PM",
+      "capital": "215",
+      "actual": "215",
+      "full reg rate": "1.0",
+      "instructor": [
+        "Melanie Lyman-Abramovitch",
+        "Bentley James Oakes"
+      ],
+      "location": "ENGMC 204"
+    },
+    "003": {
+      "title": "Foundations of Programming.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "MWF",
+      "time": "09:35 AM-10:25 AM",
+      "capital": "170",
+      "actual": "168",
+      "full reg rate": "0.9882352941176471",
+      "instructor": [
+        "Giulia Alberini",
+        "Melanie Lyman-Abramovitch"
+      ],
+      "location": "MDHAR G-10"
+    },
+    "004": {
+      "title": "Foundations of Programming.",
+      "type": "Midterm Exam",
+      "credit": "0.000",
+      "days": "W",
+      "time": "06:05 PM-08:55 PM",
+      "capital": "524",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "ADAMS AUD"
+    }
+  },
+  "COMP 206": {
+    "001": {
+      "title": "Introduction to Software Systems.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "MW",
+      "time": "02:35 PM-03:55 PM",
+      "capital": "425",
+      "actual": "330",
+      "full reg rate": "0.7764705882352941",
+      "instructor": [
+        "Joseph P Vybihal"
+      ],
+      "location": "STBIO S1/4"
+    },
+    "002": {
+      "title": "Introduction to Software Systems.",
+      "type": "Midterm Exam",
+      "credit": "0.000",
+      "days": "M",
+      "time": "02:35 PM-03:55 PM",
+      "capital": "330",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "STBIO S4/106"
+    }
+  },
+  "COMP 208": {
+    "001": {
+      "title": "Computers in Engineering.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "TR",
+      "time": "11:35 AM-12:55 PM",
+      "capital": "115",
+      "actual": "109",
+      "full reg rate": "0.9478260869565217",
+      "instructor": [
+        "Nathan Friedman"
+      ],
+      "location": "STBIO N2/2"
+    },
+    "002": {
+      "title": "Computers in Engineering.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "TR",
+      "time": "02:35 PM-03:55 PM",
+      "capital": "93",
+      "actual": "93",
+      "full reg rate": "1.0",
+      "instructor": [
+        "Nathan Friedman"
+      ],
+      "location": "ENGMD 279"
+    },
+    "003": {
+      "title": "Computers in Engineering.",
+      "type": "Midterm Exam",
+      "credit": "0.000",
+      "days": "T",
+      "time": "06:05 PM-07:55 PM",
+      "capital": "208",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "ADAMS AUD"
+    }
+  },
+  "COMP 250": {
+    "001": {
+      "title": "Introduction to Computer Science.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "TR",
+      "time": "08:35 AM-09:25 AM",
+      "capital": "380",
+      "actual": "418",
+      "full reg rate": "1.1",
+      "instructor": [
+        "Mathieu Blanchette"
+      ],
+      "location": "STBIO S1/4"
+    },
+    "002": {
+      "title": "Introduction to Computer Science.",
+      "type": "Midterm Exam",
+      "credit": "0.000",
+      "days": "W",
+      "time": "06:05 PM-07:25 PM",
+      "capital": "350",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "MCMED 522"
+    }
+  },
+  "COMP 251": {
+    "001": {
+      "title": "Algorithms and Data Structures.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "TR",
+      "time": "11:35 AM-12:55 PM",
+      "capital": "260",
+      "actual": "279",
+      "full reg rate": "1.073076923076923",
+      "instructor": [
+        "Jérôme Waldispuhl"
+      ],
+      "location": "MAASS 112"
+    },
+    "002": {
+      "title": "Algorithms and Data Structures.",
+      "type": "Midterm Exam",
+      "credit": "0.000",
+      "days": "R",
+      "time": "11:35 AM-12:55 PM",
+      "capital": "278",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "ADAMS AUD"
+    }
+  },
+  "COMP 252": {
+    "001": {
+      "title": "Honours Algorithms and Data Structures.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "TR",
+      "time": "08:35 AM-09:55 AM",
+      "capital": "60",
+      "actual": "55",
+      "full reg rate": "0.9166666666666666",
+      "instructor": [
+        "Luc P Devroye"
+      ],
+      "location": "ENGTR 1090"
+    },
+    "002": {
+      "title": "Honours Algorithms and Data Structures.",
+      "type": "Final Exam",
+      "credit": "0.000",
+      "days": "M",
+      "time": "09:00 AM-12:00 PM",
+      "capital": "55",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "MAASS 10"
+    }
+  },
+  "COMP 273": {
+    "001": {
+      "title": "Introduction to Computer Systems.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "MW",
+      "time": "04:05 PM-05:25 PM",
+      "capital": "210",
+      "actual": "192",
+      "full reg rate": "0.9142857142857143",
+      "instructor": [
+        "Joseph P Vybihal"
+      ],
+      "location": "BRONF 151"
+    }
+  },
+  "COMP 302": {
+    "001": {
+      "title": "Programming Languages and Paradigms.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "TRF",
+      "time": "09:35 AM-10:25 AM",
+      "capital": "200",
+      "actual": "209",
+      "full reg rate": "1.045",
+      "instructor": [
+        "Prakash Panangaden"
+      ],
+      "location": "LEA 26"
+    },
+    "002": {
+      "title": "Programming Languages and Paradigms.",
+      "type": "Midterm Exam",
+      "credit": "0.000",
+      "days": "R",
+      "time": "06:35 PM-07:25 PM",
+      "capital": "215",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "MCMED 522"
+    }
+  },
+  "COMP 303": {
+    "001": {
+      "title": "Software Design.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "TR",
+      "time": "01:05 PM-02:25 PM",
+      "capital": "135",
+      "actual": "50",
+      "full reg rate": "0.37037037037037035",
+      "instructor": [
+        "Martin Robillard"
+      ],
+      "location": "SADB 2/36"
+    }
+  },
+  "COMP 308": {
+    "001": {
+      "title": "Computer Systems Lab.",
+      "type": "Laboratory",
+      "credit": "1.000",
+      "days": "M",
+      "time": "09:35 AM-10:25 AM",
+      "capital": "50",
+      "actual": "33",
+      "full reg rate": "0.66",
+      "instructor": [
+        "Joseph P Vybihal"
+      ],
+      "location": "ENGTR 3120"
+    }
+  },
+  "COMP 310": {
+    "001": {
+      "title": "Operating Systems.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "MWF",
+      "time": "08:35 AM-09:25 AM",
+      "capital": "99",
+      "actual": "89",
+      "full reg rate": "0.898989898989899",
+      "instructor": [
+        "Muthucumaru Maheswaran"
+      ],
+      "location": "MAASS 112"
+    },
+    "002": {
+      "title": "Operating Systems.",
+      "type": "Midterm Exam",
+      "credit": "0.000",
+      "days": "F",
+      "time": "08:35 AM-09:25 AM",
+      "capital": "89",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "ENGTR 1080"
+    }
+  },
+  "COMP 321": {
+    "001": {
+      "title": "Programming Challenges.",
+      "type": "Lecture",
+      "credit": "1.000",
+      "days": "T",
+      "time": "10:05 AM-10:55 AM",
+      "capital": "55",
+      "actual": "40",
+      "full reg rate": "0.7272727272727273",
+      "instructor": [
+        "David Camilo Becerra Romero"
+      ],
+      "location": "ENGMC 103"
+    }
+  },
+  "COMP 322": {
+    "001": {
+      "title": "Introduction to C++.",
+      "type": "Lecture",
+      "credit": "1.000",
+      "days": "M",
+      "time": "01:35 PM-02:25 PM",
+      "capital": "150",
+      "actual": "106",
+      "full reg rate": "0.7066666666666667",
+      "instructor": [
+        "Daniel Greene Pomerantz"
+      ],
+      "location": "BURN 1B45"
+    }
+  },
+  "COMP 360": {
+    "001": {
+      "title": "Algorithm Design.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "MW",
+      "time": "02:35 PM-03:55 PM",
+      "capital": "130",
+      "actual": "106",
+      "full reg rate": "0.8153846153846154",
+      "instructor": [
+        "Yang Cai"
+      ],
+      "location": "STBIO S1/3"
+    },
+    "002": {
+      "title": "Algorithm Design.",
+      "type": "Final Exam",
+      "credit": "0.000",
+      "days": "R",
+      "time": "02:00 PM-05:00 PM",
+      "capital": "105",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "STBIO S1/4"
+    }
+  },
+  "COMP 361D2": {
+    "001": {
+      "title": "Software Engineering Project.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "TR",
+      "time": "11:35 AM-12:55 PM",
+      "capital": "70",
+      "actual": "69",
+      "full reg rate": "0.9857142857142858",
+      "instructor": [
+        "Jorg Andreas Kienzle"
+      ],
+      "location": "ENGTR 1090"
+    },
+    "002": {
+      "title": "Software Engineering Project.",
+      "type": "Midterm Exam",
+      "credit": "0.000",
+      "days": "T",
+      "time": "06:05 PM-08:55 PM",
+      "capital": "69",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "LEA 14"
+    }
+  },
+  "COMP 362": {
+    "001": {
+      "title": "Honours Algorithm Design.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "TR",
+      "time": "11:35 AM-12:55 PM",
+      "capital": "36",
+      "actual": "25",
+      "full reg rate": "0.6944444444444444",
+      "instructor": [
+        "Hamed Hatami"
+      ],
+      "location": "ENGTR 0070"
+    }
+  },
+  "COMP 396": {
+    "001": {
+      "title": "Undergraduate Research Project.",
+      "type": "Project",
+      "credit": "3.000",
+      "days": " ",
+      "time": "TBA",
+      "capital": "15",
+      "actual": "14",
+      "full reg rate": "0.9333333333333333",
+      "instructor": [
+        "Nathan Friedman"
+      ],
+      "location": "TBA"
+    }
+  },
+  "COMP 400": {
+    "001": {
+      "title": "Project in Computer Science.",
+      "type": "Project",
+      "credit": "3.000",
+      "days": " ",
+      "time": "TBA",
+      "capital": "25",
+      "actual": "9",
+      "full reg rate": "0.36",
+      "instructor": [
+        "Nathan Friedman"
+      ],
+      "location": "TBA"
+    },
+    "002": {
+      "title": "Project in Computer Science.",
+      "type": "Final Exam",
+      "credit": "0.000",
+      "days": "F",
+      "time": "02:00 PM-05:00 PM",
+      "capital": "9",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "ENGMC 103"
+    }
+  },
+  "COMP 401": {
+    "001": {
+      "title": "Project in Biology and Computer Science.",
+      "type": "Independent Study",
+      "credit": "3.000",
+      "days": " ",
+      "time": "TBA",
+      "capital": "15",
+      "actual": "4",
+      "full reg rate": "0.26666666666666666",
+      "instructor": [
+        "Mathieu Blanchette"
+      ],
+      "location": "TBA"
+    }
+  },
+  "COMP 402D2": {
+    "001": {
+      "title": "Honours Project in Computer Science and Biology.",
+      "type": "Research Course",
+      "credit": "3.000",
+      "days": " ",
+      "time": "TBA",
+      "capital": "15",
+      "actual": "3",
+      "full reg rate": "0.2",
+      "instructor": [
+        "Mathieu Blanchette"
+      ],
+      "location": "TBA"
+    }
+  },
+  "COMP 409": {
+    "001": {
+      "title": "Concurrent Programming.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "WF",
+      "time": "11:35 AM-12:55 PM",
+      "capital": "70",
+      "actual": "48",
+      "full reg rate": "0.6857142857142857",
+      "instructor": [
+        "Clark Verbrugge"
+      ],
+      "location": "ENGTR 1090"
+    }
+  },
+  "COMP 417": {
+    "001": {
+      "title": "Introduction Robotics and Intelligent Systems.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "TR",
+      "time": "08:35 AM-09:55 AM",
+      "capital": "64",
+      "actual": "44",
+      "full reg rate": "0.6875",
+      "instructor": [
+        "Florian Shkurti"
+      ],
+      "location": "ENGTR 0070"
+    },
+    "002": {
+      "title": "Introduction Robotics and Intelligent Systems.",
+      "type": "Final Exam",
+      "credit": "0.000",
+      "days": "T",
+      "time": "02:00 PM-05:00 PM",
+      "capital": "44",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "SADB 1/12"
+    }
+  },
+  "COMP 421": {
+    "001": {
+      "title": "Database Systems.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "MW",
+      "time": "11:35 AM-12:55 PM",
+      "capital": "200",
+      "actual": "177",
+      "full reg rate": "0.885",
+      "instructor": [
+        "Joseph Vinish D'silva"
+      ],
+      "location": "BRONF 151"
+    },
+    "002": {
+      "title": "Database Systems.",
+      "type": "Midterm Exam",
+      "credit": "0.000",
+      "days": "W",
+      "time": "05:05 PM-07:25 PM",
+      "capital": "180",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "STBIO S1/3"
+    }
+  },
+  "COMP 424": {
+    "001": {
+      "title": "Artificial Intelligence.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "TR",
+      "time": "08:35 AM-09:55 AM",
+      "capital": "201",
+      "actual": "185",
+      "full reg rate": "0.9203980099502488",
+      "instructor": [
+        "Jackie Cheung"
+      ],
+      "location": "BRONF 151"
+    },
+    "002": {
+      "title": "Artificial Intelligence.",
+      "type": "Midterm Exam",
+      "credit": "0.000",
+      "days": "R",
+      "time": "08:35 AM-09:55 AM",
+      "capital": "80",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "BURN 1B24"
+    }
+  },
+  "COMP 499": {
+    "001": {
+      "title": "Undergraduate Bioinformatics Seminar.",
+      "type": "Seminar",
+      "credit": "1.000",
+      "days": " ",
+      "time": "TBA",
+      "capital": "25",
+      "actual": "3",
+      "full reg rate": "0.12",
+      "instructor": [
+        "Mathieu Blanchette"
+      ],
+      "location": "TBA"
+    }
+  },
+  "COMP 520": {
+    "001": {
+      "title": "Compiler Design.",
+      "type": "Lecture",
+      "credit": "4.000",
+      "days": "MWF",
+      "time": "01:35 PM-02:25 PM",
+      "capital": "65",
+      "actual": "42",
+      "full reg rate": "0.6461538461538462",
+      "instructor": [
+        "Alexander Jacob Krolik"
+      ],
+      "location": "ENGMD 279"
+    },
+    "002": {
+      "title": "Compiler Design.",
+      "type": "Midterm Exam",
+      "credit": "0.000",
+      "days": "F",
+      "time": "01:05 PM-02:25 PM",
+      "capital": "42",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "ENGMD 279"
+    }
+  },
+  "COMP 521": {
+    "001": {
+      "title": "Modern Computer Games.",
+      "type": "Lecture",
+      "credit": "4.000",
+      "days": "MW",
+      "time": "02:35 PM-03:55 PM",
+      "capital": "90",
+      "actual": "78",
+      "full reg rate": "0.8666666666666667",
+      "instructor": [
+        "Clark Verbrugge"
+      ],
+      "location": "ENGTR 1100"
+    }
+  },
+  "COMP 525": {
+    "001": {
+      "title": "Formal Verification.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "TR",
+      "time": "11:35 AM-12:55 PM",
+      "capital": "48",
+      "actual": "28",
+      "full reg rate": "0.5833333333333334",
+      "instructor": [
+        "Prakash Panangaden"
+      ],
+      "location": "ENGTR 2110"
+    }
+  },
+  "COMP 531": {
+    "001": {
+      "title": "Advanced Theory of Computation.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "MW",
+      "time": "02:35 PM-03:55 PM",
+      "capital": "20",
+      "actual": "6",
+      "full reg rate": "0.3",
+      "instructor": [
+        "Denis Therien"
+      ],
+      "location": "ENGMC 103"
+    }
+  },
+  "COMP 535": {
+    "001": {
+      "title": "Computer Networks 1.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "MTR",
+      "time": "10:35 AM-11:25 AM",
+      "capital": "76",
+      "actual": "42",
+      "full reg rate": "0.5526315789473685",
+      "instructor": [
+        "Xi Chen"
+      ],
+      "location": "ENGTR 1100"
+    },
+    "002": {
+      "title": "Computer Networks 1.",
+      "type": "Final Exam",
+      "credit": "0.000",
+      "days": "W",
+      "time": "02:00 PM-05:00 PM",
+      "capital": "42",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "RPHYS 118"
+    }
+  },
+  "COMP 546": {
+    "001": {
+      "title": "Computational Perception.",
+      "type": "Lecture",
+      "credit": "4.000",
+      "days": "TR",
+      "time": "11:35 AM-12:55 PM",
+      "capital": "54",
+      "actual": "26",
+      "full reg rate": "0.48148148148148145",
+      "instructor": [
+        "Michael Langer"
+      ],
+      "location": "BURN 1B23"
+    }
+  },
+  "COMP 547": {
+    "001": {
+      "title": "Cryptography and Data Security.",
+      "type": "Lecture",
+      "credit": "4.000",
+      "days": "MW",
+      "time": "10:05 AM-11:25 AM",
+      "capital": "50",
+      "actual": "23",
+      "full reg rate": "0.46",
+      "instructor": [
+        "Claude Crepeau"
+      ],
+      "location": "ENGTR 2110"
+    },
+    "002": {
+      "title": "Cryptography and Data Security.",
+      "type": "Final Exam",
+      "credit": "0.000",
+      "days": "R",
+      "time": "09:00 AM-12:00 PM",
+      "capital": "23",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "BURN 1B23"
+    }
+  },
+  "COMP 551": {
+    "001": {
+      "title": "Applied Machine Learning.",
+      "type": "Lecture",
+      "credit": "4.000",
+      "days": "TR",
+      "time": "01:05 PM-02:25 PM",
+      "capital": "148",
+      "actual": "129",
+      "full reg rate": "0.8716216216216216",
+      "instructor": [
+        "Joelle Pineau"
+      ],
+      "location": "ARTS W-120"
+    },
+    "002": {
+      "title": "Applied Machine Learning.",
+      "type": "Midterm Exam",
+      "credit": "0.000",
+      "days": "R",
+      "time": "01:05 PM-02:25 PM",
+      "capital": "148",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "ADAMS AUD"
+    }
+  },
+  "COMP 554": {
+    "001": {
+      "title": "Approximation Algorithms.",
+      "type": "Lecture",
+      "credit": "4.000",
+      "days": "M",
+      "time": "02:35 PM-03:55 PM",
+      "capital": "12",
+      "actual": "5",
+      "full reg rate": "0.4166666666666667",
+      "instructor": [
+        "Frederick Bruce Shepherd"
+      ],
+      "location": "BURN 1205"
+    }
+  },
+  "COMP 558": {
+    "001": {
+      "title": "Fundamentals of Computer Vision.",
+      "type": "Lecture",
+      "credit": "3.000",
+      "days": "MW",
+      "time": "10:05 AM-11:25 AM",
+      "capital": "70",
+      "actual": "17",
+      "full reg rate": "0.24285714285714285",
+      "instructor": [
+        "Kaleem Siddiqi"
+      ],
+      "location": "TBA"
+    }
+  },
+  "COMP 559": {
+    "001": {
+      "title": "Fundamentals of Computer Animation.",
+      "type": "Lecture",
+      "credit": "4.000",
+      "days": "MW",
+      "time": "10:05 AM-12:55 PM",
+      "capital": "25",
+      "actual": "18",
+      "full reg rate": "0.72",
+      "instructor": [
+        "Paul Kry"
+      ],
+      "location": "ENGMC 103"
+    }
+  },
+  "COMP 601": {
+    "001": {
+      "title": "Thesis Literature Review.",
+      "type": "Topics Course",
+      "credit": "2.000",
+      "days": "F",
+      "time": "02:35 PM-03:25 PM",
+      "capital": "50",
+      "actual": "29",
+      "full reg rate": "0.58",
+      "instructor": [
+        "Gregory L Dudek",
+        "Michael Langer",
+        "Prakash Panangaden"
+      ],
+      "location": "ENGMC 12"
+    }
+  },
+  "COMP 610": {
+    "001": {
+      "title": "Information Structures 1.",
+      "type": "Lecture",
+      "credit": "4.000",
+      "days": "TR",
+      "time": "01:05 PM-02:25 PM",
+      "capital": "20",
+      "actual": "8",
+      "full reg rate": "0.4",
+      "instructor": [
+        "Claude Crepeau"
+      ],
+      "location": "ENGMC 103"
+    }
+  },
+  "COMP 614": {
+    "001": {
+      "title": "Distributed Data Management.",
+      "type": "Lecture",
+      "credit": "4.000",
+      "days": "MW",
+      "time": "08:35 AM-09:55 AM",
+      "capital": "30",
+      "actual": "7",
+      "full reg rate": "0.23333333333333334",
+      "instructor": [
+        "Bettina Kemme"
+      ],
+      "location": "ENGTR 0070"
+    }
+  },
+  "COMP 642": {
+    "001": {
+      "title": "Numerical Estimation Methods.",
+      "type": "Lecture",
+      "credit": "4.000",
+      "days": "TR",
+      "time": "11:35 AM-12:55 PM",
+      "capital": "20",
+      "actual": "11",
+      "full reg rate": "0.55",
+      "instructor": [
+        "Xiao-Wen Chang"
+      ],
+      "location": "ENGMC 103"
+    }
+  },
+  "COMP 652": {
+    "001": {
+      "title": "Machine Learning.",
+      "type": "Lecture",
+      "credit": "4.000",
+      "days": "TR",
+      "time": "01:05 PM-02:25 PM",
+      "capital": "67",
+      "actual": "56",
+      "full reg rate": "0.835820895522388",
+      "instructor": [
+        "Doina Precup",
+        "Guillaume Rabusseau"
+      ],
+      "location": "ENGTR 0070"
+    }
+  },
+  "COMP 680": {
+    "001": {
+      "title": "Mining Biological Sequences.",
+      "type": "Lecture",
+      "credit": "4.000",
+      "days": "TR",
+      "time": "02:35 PM-03:55 PM",
+      "capital": "25",
+      "actual": "20",
+      "full reg rate": "0.8",
+      "instructor": [
+        "Mathieu Blanchette"
+      ],
+      "location": "ENGMC 103"
+    }
+  },
+  "COMP 691": {
+    "001": {
+      "title": "Thesis Research 1.",
+      "type": "Thesis Course",
+      "credit": "3.000",
+      "days": " ",
+      "time": "TBA",
+      "capital": "50",
+      "actual": "8",
+      "full reg rate": "0.16",
+      "instructor": [
+        "Xue Liu"
+      ],
+      "location": "TBA"
+    }
+  },
+  "COMP 693": {
+    "001": {
+      "title": "Research Project 1.",
+      "type": "Project",
+      "credit": "3.000",
+      "days": " ",
+      "time": "TBA",
+      "capital": "50",
+      "actual": "4",
+      "full reg rate": "0.08",
+      "instructor": [
+        "Xue Liu"
+      ],
+      "location": "TBA"
+    }
+  },
+  "COMP 694": {
+    "001": {
+      "title": "Research Project 2.",
+      "type": "Project",
+      "credit": "6.000",
+      "days": " ",
+      "time": "TBA",
+      "capital": "50",
+      "actual": "4",
+      "full reg rate": "0.08",
+      "instructor": [
+        "Xue Liu"
+      ],
+      "location": "TBA"
+    }
+  },
+  "COMP 695": {
+    "001": {
+      "title": "Research Project 3.",
+      "type": "Project",
+      "credit": "6.000",
+      "days": " ",
+      "time": "TBA",
+      "capital": "50",
+      "actual": "3",
+      "full reg rate": "0.06",
+      "instructor": [
+        "Xue Liu"
+      ],
+      "location": "TBA"
+    }
+  },
+  "COMP 696": {
+    "001": {
+      "title": "Thesis Research 2.",
+      "type": "Thesis Course",
+      "credit": "3.000",
+      "days": " ",
+      "time": "TBA",
+      "capital": "50",
+      "actual": "11",
+      "full reg rate": "0.22",
+      "instructor": [
+        "Xue Liu"
+      ],
+      "location": "TBA"
+    }
+  },
+  "COMP 697": {
+    "001": {
+      "title": "Thesis Research 3.",
+      "type": "Thesis Course",
+      "credit": "4.000",
+      "days": " ",
+      "time": "TBA",
+      "capital": "50",
+      "actual": "7",
+      "full reg rate": "0.14",
+      "instructor": [
+        "Xue Liu"
+      ],
+      "location": "TBA"
+    }
+  },
+  "COMP 698": {
+    "001": {
+      "title": "Thesis Research 4.",
+      "type": "Thesis Course",
+      "credit": "10.000",
+      "days": " ",
+      "time": "TBA",
+      "capital": "50",
+      "actual": "8",
+      "full reg rate": "0.16",
+      "instructor": [
+        "Xue Liu"
+      ],
+      "location": "TBA"
+    }
+  },
+  "COMP 699": {
+    "001": {
+      "title": "Thesis Research 5.",
+      "type": "Thesis Course",
+      "credit": "12.000",
+      "days": " ",
+      "time": "TBA",
+      "capital": "50",
+      "actual": "15",
+      "full reg rate": "0.3",
+      "instructor": [
+        "Xue Liu"
+      ],
+      "location": "TBA"
+    }
+  },
+  "COMP 700": {
+    "001": {
+      "title": "Ph.D. Comprehensive Examination.",
+      "type": "Comprehensive Exam",
+      "credit": "0.000",
+      "days": " ",
+      "time": "TBA",
+      "capital": "20",
+      "actual": "8",
+      "full reg rate": "0.4",
+      "instructor": [
+        "Xiao-Wen Chang"
+      ],
+      "location": "TBA"
+    }
+  },
+  "COMP 701": {
+    "001": {
+      "title": "Thesis Proposal and Area Examination.",
+      "type": "Thesis Course",
+      "credit": "3.000",
+      "days": " ",
+      "time": "TBA",
+      "capital": "20",
+      "actual": "3",
+      "full reg rate": "0.15",
+      "instructor": [
+        "Xiao-Wen Chang"
+      ],
+      "location": "TBA"
+    }
+  },
+  "COMP 760": {
+    "001": {
+      "title": "Advanced Topics Theory 1.",
+      "type": "Lecture",
+      "credit": "4.000",
+      "days": "TR",
+      "time": "04:05 PM-05:25 PM",
+      "capital": "20",
+      "actual": "7",
+      "full reg rate": "0.35",
+      "instructor": [
+        "Hamed Hatami"
+      ],
+      "location": "ENGMC 103"
+    },
+    "002": {
+      "title": "Advanced Topics Theory 1.",
+      "type": "Lecture",
+      "credit": "4.000",
+      "days": " ",
+      "time": "TBA",
+      "capital": "20",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "TBA"
+    }
+  },
+  "COMP 761": {
+    "001": {
+      "title": "Advanced Topics Theory 2.",
+      "type": "Lecture",
+      "credit": "4.000",
+      "days": "F",
+      "time": "02:05 PM-04:55 PM",
+      "capital": "5",
+      "actual": "5",
+      "full reg rate": "1.0",
+      "instructor": [
+        "Prakash Panangaden"
+      ],
+      "location": "TBA"
+    }
+  },
+  "COMP 765": {
+    "001": {
+      "title": "Advanced Topics Systems 2.",
+      "type": "Lecture",
+      "credit": "4.000",
+      "days": " ",
+      "time": "TBA",
+      "capital": "16",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [],
+      "location": "TBA"
+    },
+    "002": {
+      "title": "Advanced Topics Systems 2.",
+      "type": "Lecture",
+      "credit": "4.000",
+      "days": "MW",
+      "time": "01:05 PM-02:25 PM",
+      "capital": "30",
+      "actual": "11",
+      "full reg rate": "0.36666666666666664",
+      "instructor": [
+        "David Paul Meger"
+      ],
+      "location": "ENGMC 103"
+    }
+  },
+  "COMP 767": {
+    "001": {
+      "title": "Advanced Topics: Applications 2.",
+      "type": "Lecture",
+      "credit": "4.000",
+      "days": " ",
+      "time": "TBA",
+      "capital": "20",
+      "actual": "0",
+      "full reg rate": "0.0",
+      "instructor": [
+        "Pierre-Luc Bacon"
+      ],
+      "location": "TBA"
+    },
+    "002": {
+      "title": "Advanced Topics: Applications 2.",
+      "type": "Lecture",
+      "credit": "4.000",
+      "days": "F",
+      "time": "10:05 AM-12:55 PM",
+      "capital": "65",
+      "actual": "52",
+      "full reg rate": "0.8",
+      "instructor": [
+        "Doina Precup",
+        "Pierre-Luc Bacon"
+      ],
+      "location": "ENGMC 103"
+    }
+  }
+}

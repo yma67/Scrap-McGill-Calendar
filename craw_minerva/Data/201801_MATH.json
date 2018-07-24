@@ -1,0 +1,2542 @@
+{
+    "MATH 111": {
+      "001": {
+        "title": "Mathematics for Education Students.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "02:35 PM-03:55 PM",
+        "capital": "85",
+        "actual": "22",
+        "full reg rate": "0.25882352941176473",
+        "instructor": [
+          "Biji Wong"
+        ],
+        "location": "ENGMD 276"
+      }
+    },
+    "MATH 123": {
+      "001": {
+        "title": "Linear Algebra and Probability.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "225",
+        "actual": "225",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Sidney Trudeau"
+        ],
+        "location": "SADB M-1"
+      },
+      "002": {
+        "title": "Linear Algebra and Probability.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "04:05 PM-05:25 PM",
+        "capital": "65",
+        "actual": "65",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Sidney Trudeau"
+        ],
+        "location": "ARMST 065"
+      },
+      "003": {
+        "title": "Linear Algebra and Probability.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "F",
+        "time": "03:35 PM-05:25 PM",
+        "capital": "272",
+        "actual": "267",
+        "full reg rate": "0.9816176470588235",
+        "instructor": [],
+        "location": "LEA 219"
+      },
+      "004": {
+        "title": "Linear Algebra and Probability.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "W",
+        "time": "06:05 PM-08:55 PM",
+        "capital": "0",
+        "actual": "0",
+        "full reg rate": "0",
+        "instructor": [],
+        "location": "ADAMS AUD"
+      }
+    },
+    "MATH 133": {
+      "001": {
+        "title": "Linear Algebra and Geometry.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "04:05 PM-05:25 PM",
+        "capital": "252",
+        "actual": "254",
+        "full reg rate": "1.007936507936508",
+        "instructor": [
+          "Haining Wang"
+        ],
+        "location": "MAASS 112"
+      },
+      "002": {
+        "title": "Linear Algebra and Geometry.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "M",
+        "time": "08:35 AM-09:25 AM",
+        "capital": "61",
+        "actual": "61",
+        "full reg rate": "1.0",
+        "instructor": [],
+        "location": "BURN 1B23"
+      },
+      "003": {
+        "title": "Linear Algebra and Geometry.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "R",
+        "time": "10:35 AM-11:25 AM",
+        "capital": "65",
+        "actual": "65",
+        "full reg rate": "1.0",
+        "instructor": [],
+        "location": "BURN 1B39"
+      },
+      "004": {
+        "title": "Linear Algebra and Geometry.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "M",
+        "time": "10:35 AM-11:25 AM",
+        "capital": "61",
+        "actual": "62",
+        "full reg rate": "1.0163934426229508",
+        "instructor": [],
+        "location": "BURN 1B23"
+      },
+      "005": {
+        "title": "Linear Algebra and Geometry.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "T",
+        "time": "10:35 AM-11:25 AM",
+        "capital": "65",
+        "actual": "65",
+        "full reg rate": "1.0",
+        "instructor": [],
+        "location": "BURN 1B39"
+      },
+      "006": {
+        "title": "Linear Algebra and Geometry.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "W",
+        "time": "06:05 PM-07:55 PM",
+        "capital": "250",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "STBIO S1/3"
+      }
+    },
+    "MATH 140": {
+      "001": {
+        "title": "Calculus 1.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "08:35 AM-09:25 AM",
+        "capital": "160",
+        "actual": "151",
+        "full reg rate": "0.94375",
+        "instructor": [
+          "Lars Martin Sektnan"
+        ],
+        "location": "ENGTR 0100"
+      },
+      "002": {
+        "title": "Calculus 1.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "M",
+        "time": "12:35 PM-01:25 PM",
+        "capital": "40",
+        "actual": "35",
+        "full reg rate": "0.875",
+        "instructor": [],
+        "location": "BURN 1205"
+      },
+      "003": {
+        "title": "Calculus 1.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "M",
+        "time": "11:35 AM-12:25 PM",
+        "capital": "40",
+        "actual": "38",
+        "full reg rate": "0.95",
+        "instructor": [],
+        "location": "BURN 920"
+      },
+      "004": {
+        "title": "Calculus 1.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "M",
+        "time": "02:35 PM-03:25 PM",
+        "capital": "40",
+        "actual": "40",
+        "full reg rate": "1.0",
+        "instructor": [],
+        "location": "BURN 1205"
+      },
+      "005": {
+        "title": "Calculus 1.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "M",
+        "time": "10:35 AM-11:25 AM",
+        "capital": "40",
+        "actual": "38",
+        "full reg rate": "0.95",
+        "instructor": [],
+        "location": "BURN 1214"
+      },
+      "006": {
+        "title": "Calculus 1.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "R",
+        "time": "06:05 PM-08:55 PM",
+        "capital": "160",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "MAASS 112"
+      }
+    },
+    "MATH 141": {
+      "001": {
+        "title": "Calculus 2.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "MWF",
+        "time": "08:35 AM-09:25 AM",
+        "capital": "382",
+        "actual": "366",
+        "full reg rate": "0.9581151832460733",
+        "instructor": [
+          "Jonah Benjamin Gaster",
+          "Sidney Trudeau"
+        ],
+        "location": "MCMED 522"
+      },
+      "002": {
+        "title": "Calculus 2.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "MWF",
+        "time": "11:35 AM-12:25 PM",
+        "capital": "389",
+        "actual": "389",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Thomas F Fox",
+          "Sidney Trudeau"
+        ],
+        "location": "MCMED 522"
+      },
+      "003": {
+        "title": "Calculus 2.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "TR",
+        "time": "01:05 PM-02:25 PM",
+        "capital": "391",
+        "actual": "391",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Sidney Trudeau"
+        ],
+        "location": "MCMED 522"
+      },
+      "004": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "M",
+        "time": "12:35 PM-02:25 PM",
+        "capital": "68",
+        "actual": "67",
+        "full reg rate": "0.9852941176470589",
+        "instructor": [],
+        "location": "RPHYS 114"
+      },
+      "005": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "W",
+        "time": "03:35 PM-05:25 PM",
+        "capital": "60",
+        "actual": "60",
+        "full reg rate": "1.0",
+        "instructor": [],
+        "location": "BURN 1B23"
+      },
+      "006": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "F",
+        "time": "11:35 AM-01:25 PM",
+        "capital": "61",
+        "actual": "61",
+        "full reg rate": "1.0",
+        "instructor": [],
+        "location": "BURN 1B23"
+      },
+      "007": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "F",
+        "time": "08:35 AM-10:25 AM",
+        "capital": "57",
+        "actual": "57",
+        "full reg rate": "1.0",
+        "instructor": [],
+        "location": "ARTS 260"
+      },
+      "008": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "F",
+        "time": "03:35 PM-05:25 PM",
+        "capital": "57",
+        "actual": "54",
+        "full reg rate": "0.9473684210526315",
+        "instructor": [],
+        "location": "BURN 1B36"
+      },
+      "009": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "F",
+        "time": "08:35 AM-10:25 AM",
+        "capital": "57",
+        "actual": "55",
+        "full reg rate": "0.9649122807017544",
+        "instructor": [],
+        "location": "BURN 1B39"
+      },
+      "010": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "F",
+        "time": "03:35 PM-05:25 PM",
+        "capital": "56",
+        "actual": "54",
+        "full reg rate": "0.9642857142857143",
+        "instructor": [],
+        "location": "BURN 1B23"
+      },
+      "011": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "W",
+        "time": "01:35 PM-03:25 PM",
+        "capital": "59",
+        "actual": "58",
+        "full reg rate": "0.9830508474576272",
+        "instructor": [],
+        "location": "BURN 1B23"
+      },
+      "012": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "M",
+        "time": "02:35 PM-04:25 PM",
+        "capital": "59",
+        "actual": "59",
+        "full reg rate": "1.0",
+        "instructor": [],
+        "location": "BURN 1B24"
+      },
+      "013": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "F",
+        "time": "01:35 PM-03:25 PM",
+        "capital": "58",
+        "actual": "54",
+        "full reg rate": "0.9310344827586207",
+        "instructor": [],
+        "location": "BURN 1B23"
+      },
+      "014": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "F",
+        "time": "12:35 PM-02:25 PM",
+        "capital": "57",
+        "actual": "56",
+        "full reg rate": "0.9824561403508771",
+        "instructor": [],
+        "location": "SADB 1/12"
+      },
+      "015": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "M",
+        "time": "11:35 AM-01:25 PM",
+        "capital": "57",
+        "actual": "55",
+        "full reg rate": "0.9649122807017544",
+        "instructor": [],
+        "location": "BURN 1B24"
+      },
+      "016": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "F",
+        "time": "02:35 PM-04:25 PM",
+        "capital": "56",
+        "actual": "56",
+        "full reg rate": "1.0",
+        "instructor": [],
+        "location": "BURN 1B24"
+      },
+      "017": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "M",
+        "time": "09:35 AM-11:25 AM",
+        "capital": "58",
+        "actual": "58",
+        "full reg rate": "1.0",
+        "instructor": [],
+        "location": "BURN 1B36"
+      },
+      "018": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "M",
+        "time": "03:35 PM-05:25 PM",
+        "capital": "56",
+        "actual": "56",
+        "full reg rate": "1.0",
+        "instructor": [],
+        "location": "BURN 1B45"
+      },
+      "019": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "M",
+        "time": "01:35 PM-03:25 PM",
+        "capital": "58",
+        "actual": "56",
+        "full reg rate": "0.9655172413793104",
+        "instructor": [],
+        "location": "BURN 1B39"
+      },
+      "020": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "F",
+        "time": "12:35 PM-02:25 PM",
+        "capital": "57",
+        "actual": "55",
+        "full reg rate": "0.9649122807017544",
+        "instructor": [],
+        "location": "RPHYS 114"
+      },
+      "021": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "M",
+        "time": "03:35 PM-05:25 PM",
+        "capital": "56",
+        "actual": "56",
+        "full reg rate": "1.0",
+        "instructor": [],
+        "location": "BURN 1B23"
+      },
+      "022": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "M",
+        "time": "11:35 AM-01:25 PM",
+        "capital": "57",
+        "actual": "55",
+        "full reg rate": "0.9649122807017544",
+        "instructor": [],
+        "location": "BURN 1B39"
+      },
+      "023": {
+        "title": "Calculus 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "W",
+        "time": "02:35 PM-04:25 PM",
+        "capital": "58",
+        "actual": "58",
+        "full reg rate": "1.0",
+        "instructor": [],
+        "location": "BURN 1B24"
+      },
+      "024": {
+        "title": "Calculus 2.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "W",
+        "time": "06:05 PM-08:55 PM",
+        "capital": "1070",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "ADAMS AUD"
+      }
+    },
+    "MATH 151": {
+      "001": {
+        "title": "Calculus B.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "MWF",
+        "time": "11:35 AM-12:25 PM",
+        "capital": "80",
+        "actual": "63",
+        "full reg rate": "0.7875",
+        "instructor": [
+          "Charles Roth"
+        ],
+        "location": "MAASS 217"
+      },
+      "002": {
+        "title": "Calculus B.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "F",
+        "time": "08:35 AM-10:25 AM",
+        "capital": "80",
+        "actual": "63",
+        "full reg rate": "0.7875",
+        "instructor": [],
+        "location": "MAASS 217"
+      },
+      "003": {
+        "title": "Calculus B.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "W",
+        "time": "06:05 PM-08:55 PM",
+        "capital": "80",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "LEA 219"
+      }
+    },
+    "MATH 203": {
+      "001": {
+        "title": "Principles of Statistics 1.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "09:35 AM-10:25 AM",
+        "capital": "295",
+        "actual": "284",
+        "full reg rate": "0.9627118644067797",
+        "instructor": [
+          "Jose Andres Correa"
+        ],
+        "location": "ADAMS AUD"
+      },
+      "002": {
+        "title": "Principles of Statistics 1.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "R",
+        "time": "03:35 PM-05:25 PM",
+        "capital": "100",
+        "actual": "26",
+        "full reg rate": "0.26",
+        "instructor": [],
+        "location": "BURN 1B24"
+      },
+      "003": {
+        "title": "Principles of Statistics 1.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "F",
+        "time": "03:35 PM-05:25 PM",
+        "capital": "285",
+        "actual": "248",
+        "full reg rate": "0.8701754385964913",
+        "instructor": [],
+        "location": "STBIO S1/4"
+      }
+    },
+    "MATH 204": {
+      "001": {
+        "title": "Principles of Statistics 2.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "11:35 AM-12:25 PM",
+        "capital": "135",
+        "actual": "111",
+        "full reg rate": "0.8222222222222222",
+        "instructor": [
+          "Russell Steele"
+        ],
+        "location": "RPHYS 112"
+      },
+      "002": {
+        "title": "Principles of Statistics 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "M",
+        "time": "02:35 PM-03:25 PM",
+        "capital": "135",
+        "actual": "109",
+        "full reg rate": "0.8074074074074075",
+        "instructor": [],
+        "location": "BURN 1B36"
+      }
+    },
+    "MATH 222": {
+      "001": {
+        "title": "Calculus 3.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "01:05 PM-02:25 PM",
+        "capital": "230",
+        "actual": "207",
+        "full reg rate": "0.9",
+        "instructor": [
+          "Stephen W Drury"
+        ],
+        "location": "MAASS 112"
+      },
+      "002": {
+        "title": "Calculus 3.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "F",
+        "time": "12:35 PM-01:25 PM",
+        "capital": "200",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "MAASS 112"
+      },
+      "003": {
+        "title": "Calculus 3.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "R",
+        "time": "05:35 PM-06:25 PM",
+        "capital": "135",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "BURN 1B45"
+      }
+    },
+    "MATH 223": {
+      "001": {
+        "title": "Linear Algebra.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "08:35 AM-09:55 AM",
+        "capital": "230",
+        "actual": "208",
+        "full reg rate": "0.9043478260869565",
+        "instructor": [
+          "Djivede Armel Kelome"
+        ],
+        "location": "MAASS 112"
+      },
+      "002": {
+        "title": "Linear Algebra.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "T",
+        "time": "10:35 AM-11:25 AM",
+        "capital": "120",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "BURN 920"
+      },
+      "003": {
+        "title": "Linear Algebra.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "W",
+        "time": "11:35 AM-12:25 PM",
+        "capital": "75",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "BURN 1B39"
+      },
+      "004": {
+        "title": "Linear Algebra.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "T",
+        "time": "08:35 AM-09:55 AM",
+        "capital": "225",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "MAASS 112"
+      }
+    },
+    "MATH 236": {
+      "001": {
+        "title": "Algebra 2.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "09:35 AM-10:25 AM",
+        "capital": "133",
+        "actual": "115",
+        "full reg rate": "0.8646616541353384",
+        "instructor": [
+          "Bogdan Nica"
+        ],
+        "location": "BURN 1B45"
+      },
+      "002": {
+        "title": "Algebra 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "R",
+        "time": "01:05 PM-02:25 PM",
+        "capital": "80",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "BURN 1214"
+      },
+      "003": {
+        "title": "Algebra 2.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "M",
+        "time": "06:05 PM-07:25 PM",
+        "capital": "230",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "ENGMC 304"
+      }
+    },
+    "MATH 240": {
+      "001": {
+        "title": "Discrete Structures 1.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "01:05 PM-02:25 PM",
+        "capital": "363",
+        "actual": "357",
+        "full reg rate": "0.9834710743801653",
+        "instructor": [
+          "Benjamin Douglas Seamone"
+        ],
+        "location": "ADAMS AUD"
+      },
+      "002": {
+        "title": "Discrete Structures 1.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "M",
+        "time": "03:35 PM-04:25 PM",
+        "capital": "226",
+        "actual": "188",
+        "full reg rate": "0.831858407079646",
+        "instructor": [],
+        "location": "STBIO S1/4"
+      },
+      "003": {
+        "title": "Discrete Structures 1.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "F",
+        "time": "02:35 PM-03:25 PM",
+        "capital": "100",
+        "actual": "59",
+        "full reg rate": "0.59",
+        "instructor": [],
+        "location": "BURN 1B36"
+      },
+      "004": {
+        "title": "Discrete Structures 1.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "W",
+        "time": "02:35 PM-03:25 PM",
+        "capital": "100",
+        "actual": "44",
+        "full reg rate": "0.44",
+        "instructor": [],
+        "location": "BURN 1214"
+      },
+      "005": {
+        "title": "Discrete Structures 1.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "T",
+        "time": "01:05 PM-02:25 PM",
+        "capital": "360",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "ENGTR 2110"
+      }
+    },
+    "MATH 243": {
+      "001": {
+        "title": "Analysis 2.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "10:35 AM-11:25 AM",
+        "capital": "133",
+        "actual": "114",
+        "full reg rate": "0.8571428571428571",
+        "instructor": [
+          "Axel W Hundemer"
+        ],
+        "location": "BURN 1B45"
+      },
+      "002": {
+        "title": "Analysis 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "R",
+        "time": "04:05 PM-05:25 PM",
+        "capital": "80",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "BURN 1214"
+      },
+      "003": {
+        "title": "Analysis 2.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "M",
+        "time": "06:05 PM-08:55 PM",
+        "capital": "228",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "STBIO S1/4"
+      }
+    },
+    "MATH 247": {
+      "001": {
+        "title": "Honours Applied Linear Algebra.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "10:05 AM-11:25 AM",
+        "capital": "83",
+        "actual": "81",
+        "full reg rate": "0.9759036144578314",
+        "instructor": [
+          "Axel W Hundemer"
+        ],
+        "location": "BURN 1B36"
+      },
+      "002": {
+        "title": "Honours Applied Linear Algebra.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "T",
+        "time": "06:05 PM-08:55 PM",
+        "capital": "162",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "ENGMC 304"
+      }
+    },
+    "MATH 249": {
+      "001": {
+        "title": "Honours Complex Variables.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "01:05 PM-02:25 PM",
+        "capital": "80",
+        "actual": "57",
+        "full reg rate": "0.7125",
+        "instructor": [
+          "Charles Roth"
+        ],
+        "location": "MAASS 217"
+      },
+      "002": {
+        "title": "Honours Complex Variables.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "W",
+        "time": "06:05 PM-08:55 PM",
+        "capital": "80",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "LEA 26"
+      }
+    },
+    "MATH 251": {
+      "001": {
+        "title": "Honours Algebra 2.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "09:35 AM-10:25 AM",
+        "capital": "81",
+        "actual": "73",
+        "full reg rate": "0.9012345679012346",
+        "instructor": [
+          "Jan Bert Vonk"
+        ],
+        "location": "ENGMD 279"
+      },
+      "002": {
+        "title": "Honours Algebra 2.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "M",
+        "time": "09:35 AM-10:25 AM",
+        "capital": "85",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "LEA 26"
+      }
+    },
+    "MATH 255": {
+      "001": {
+        "title": "Honours Analysis 2.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "96",
+        "actual": "77",
+        "full reg rate": "0.8020833333333334",
+        "instructor": [
+          "Rustum Choksi"
+        ],
+        "location": "BRONF 423"
+      },
+      "002": {
+        "title": "Honours Analysis 2.",
+        "type": "Final Exam",
+        "credit": "0.000",
+        "days": "T",
+        "time": "09:05 AM-11:55 AM",
+        "capital": "77",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "BURN 1B45"
+      }
+    },
+    "MATH 262": {
+      "001": {
+        "title": "Intermediate Calculus.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "09:35 AM-10:25 AM",
+        "capital": "180",
+        "actual": "171",
+        "full reg rate": "0.95",
+        "instructor": [
+          "Stephen W Drury"
+        ],
+        "location": "MDHAR G-10"
+      },
+      "002": {
+        "title": "Intermediate Calculus.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "W",
+        "time": "02:35 PM-03:25 PM",
+        "capital": "62",
+        "actual": "59",
+        "full reg rate": "0.9516129032258065",
+        "instructor": [],
+        "location": "ENGMD 276"
+      },
+      "003": {
+        "title": "Intermediate Calculus.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "W",
+        "time": "11:35 AM-12:25 PM",
+        "capital": "62",
+        "actual": "59",
+        "full reg rate": "0.9516129032258065",
+        "instructor": [],
+        "location": "ENGMD 276"
+      },
+      "004": {
+        "title": "Intermediate Calculus.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "R",
+        "time": "04:35 PM-05:25 PM",
+        "capital": "56",
+        "actual": "53",
+        "full reg rate": "0.9464285714285714",
+        "instructor": [],
+        "location": "ENGTR 0060"
+      }
+    },
+    "MATH 263": {
+      "001": {
+        "title": "Ordinary Differential Equations for Engineers.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "WF",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "185",
+        "actual": "173",
+        "full reg rate": "0.9351351351351351",
+        "instructor": [
+          "Xianchang Meng"
+        ],
+        "location": "LEA 26"
+      },
+      "002": {
+        "title": "Ordinary Differential Equations for Engineers.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "02:35 PM-03:55 PM",
+        "capital": "185",
+        "actual": "108",
+        "full reg rate": "0.5837837837837838",
+        "instructor": [
+          "Rohit Jain"
+        ],
+        "location": "ENGMC 204"
+      },
+      "003": {
+        "title": "Ordinary Differential Equations for Engineers.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "F",
+        "time": "04:35 PM-05:25 PM",
+        "capital": "74",
+        "actual": "33",
+        "full reg rate": "0.44594594594594594",
+        "instructor": [],
+        "location": "MAASS 217"
+      },
+      "004": {
+        "title": "Ordinary Differential Equations for Engineers.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "M",
+        "time": "01:35 PM-02:25 PM",
+        "capital": "74",
+        "actual": "73",
+        "full reg rate": "0.9864864864864865",
+        "instructor": [],
+        "location": "BURN 1B45"
+      },
+      "005": {
+        "title": "Ordinary Differential Equations for Engineers.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "F",
+        "time": "02:35 PM-03:25 PM",
+        "capital": "74",
+        "actual": "41",
+        "full reg rate": "0.5540540540540541",
+        "instructor": [],
+        "location": "RPHYS 118"
+      },
+      "006": {
+        "title": "Ordinary Differential Equations for Engineers.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "W",
+        "time": "10:35 AM-11:25 AM",
+        "capital": "74",
+        "actual": "73",
+        "full reg rate": "0.9864864864864865",
+        "instructor": [],
+        "location": "ENGMD 276"
+      },
+      "007": {
+        "title": "Ordinary Differential Equations for Engineers.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "W",
+        "time": "04:35 PM-05:25 PM",
+        "capital": "74",
+        "actual": "61",
+        "full reg rate": "0.8243243243243243",
+        "instructor": [],
+        "location": "ENGMD 276"
+      }
+    },
+    "MATH 264": {
+      "001": {
+        "title": "Advanced Calculus for Engineers.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "01:05 PM-02:25 PM",
+        "capital": "190",
+        "actual": "159",
+        "full reg rate": "0.8368421052631579",
+        "instructor": [
+          "Pengfei Guan"
+        ],
+        "location": "SADB M-1"
+      },
+      "002": {
+        "title": "Advanced Calculus for Engineers.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "F",
+        "time": "09:35 AM-10:25 AM",
+        "capital": "63",
+        "actual": "53",
+        "full reg rate": "0.8412698412698413",
+        "instructor": [],
+        "location": "BURN 306"
+      },
+      "003": {
+        "title": "Advanced Calculus for Engineers.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "M",
+        "time": "02:35 PM-03:25 PM",
+        "capital": "57",
+        "actual": "43",
+        "full reg rate": "0.7543859649122807",
+        "instructor": [],
+        "location": "ENGMD 276"
+      },
+      "004": {
+        "title": "Advanced Calculus for Engineers.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "F",
+        "time": "10:35 AM-11:25 AM",
+        "capital": "70",
+        "actual": "63",
+        "full reg rate": "0.9",
+        "instructor": [],
+        "location": "SADB 1/12"
+      }
+    },
+    "MATH 314": {
+      "001": {
+        "title": "Advanced Calculus.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "149",
+        "actual": "147",
+        "full reg rate": "0.9865771812080537",
+        "instructor": [
+          "Charles Roth"
+        ],
+        "location": "BURN 1B45"
+      },
+      "002": {
+        "title": "Advanced Calculus.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "R",
+        "time": "06:05 PM-08:55 PM",
+        "capital": "145",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "MAASS 10"
+      }
+    },
+    "MATH 315": {
+      "001": {
+        "title": "Ordinary Differential Equations.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "10:35 AM-11:25 AM",
+        "capital": "150",
+        "actual": "121",
+        "full reg rate": "0.8066666666666666",
+        "instructor": [
+          "Jean-Philippe Lessard"
+        ],
+        "location": "RPHYS 112"
+      },
+      "002": {
+        "title": "Ordinary Differential Equations.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "W",
+        "time": "06:05 PM-08:55 PM",
+        "capital": "145",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "MAASS 112"
+      }
+    },
+    "MATH 319": {
+      "001": {
+        "title": "Introduction to Partial Differential Equations.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "09:35 AM-10:25 AM",
+        "capital": "68",
+        "actual": "50",
+        "full reg rate": "0.7352941176470589",
+        "instructor": [
+          "Jessica Lin"
+        ],
+        "location": "BURN 1B23"
+      }
+    },
+    "MATH 323": {
+      "001": {
+        "title": "Probability.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "WF",
+        "time": "01:05 PM-02:25 PM",
+        "capital": "199",
+        "actual": "199",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Chien-Lin Su"
+        ],
+        "location": "LEA 26"
+      },
+      "002": {
+        "title": "Probability.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "T",
+        "time": "06:05 PM-07:55 PM",
+        "capital": "90",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "BURN 1B23"
+      },
+      "003": {
+        "title": "Probability.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "W",
+        "time": "10:35 AM-12:25 PM",
+        "capital": "75",
+        "actual": "45",
+        "full reg rate": "0.6",
+        "instructor": [],
+        "location": "BURN 1214"
+      },
+      "004": {
+        "title": "Probability.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "W",
+        "time": "01:05 PM-02:25 PM",
+        "capital": "200",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "RPHYS 114"
+      }
+    },
+    "MATH 324": {
+      "001": {
+        "title": "Statistics.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "02:35 PM-03:55 PM",
+        "capital": "154",
+        "actual": "139",
+        "full reg rate": "0.9025974025974026",
+        "instructor": [
+          "Masoud Asgharian-Dastenaei"
+        ],
+        "location": "DUFF THTR 1"
+      },
+      "002": {
+        "title": "Statistics.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "W",
+        "time": "04:05 PM-05:55 PM",
+        "capital": "45",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "BURN 1205"
+      },
+      "003": {
+        "title": "Statistics.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "T",
+        "time": "02:35 PM-03:55 PM",
+        "capital": "140",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "DUFF THTR 1"
+      }
+    },
+    "MATH 325": {
+      "001": {
+        "title": "Honours Ordinary Differential Equations.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "02:35 PM-03:55 PM",
+        "capital": "110",
+        "actual": "90",
+        "full reg rate": "0.8181818181818182",
+        "instructor": [
+          "Antony Raymond Humphries"
+        ],
+        "location": "MAASS 10"
+      },
+      "002": {
+        "title": "Honours Ordinary Differential Equations.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "R",
+        "time": "02:35 PM-03:55 PM",
+        "capital": "60",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "MAASS 10"
+      }
+    },
+    "MATH 329": {
+      "001": {
+        "title": "Theory of Interest.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "08:35 AM-09:25 AM",
+        "capital": "88",
+        "actual": "85",
+        "full reg rate": "0.9659090909090909",
+        "instructor": [
+          "Ivo Panayotov"
+        ],
+        "location": "RPHYS 118"
+      },
+      "002": {
+        "title": "Theory of Interest.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "W",
+        "time": "06:05 PM-07:55 PM",
+        "capital": "85",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "ENGMC 304"
+      }
+    },
+    "MATH 340": {
+      "001": {
+        "title": "Discrete Structures 2.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "WF",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "141",
+        "actual": "135",
+        "full reg rate": "0.9574468085106383",
+        "instructor": [
+          "Sergey Norin"
+        ],
+        "location": "BURN 1B45"
+      },
+      "002": {
+        "title": "Discrete Structures 2.",
+        "type": "Tutorial",
+        "credit": "0.000",
+        "days": "TBA",
+        "time": "0",
+        "capital": "0",
+        "actual": "0",
+        "full reg rate": "0",
+        "instructor": [
+          "01/08-04/16"
+        ],
+        "location": "Registration Not Required"
+      },
+      "003": {
+        "title": "Discrete Structures 2.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "F",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "50",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "BURN 1B45"
+      }
+    },
+    "MATH 357": {
+      "001": {
+        "title": "Honours Statistics.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "08:35 AM-09:55 AM",
+        "capital": "61",
+        "actual": "37",
+        "full reg rate": "0.6065573770491803",
+        "instructor": [
+          "David B Wolfson"
+        ],
+        "location": "BURN 1B23"
+      }
+    },
+    "MATH 387": {
+      "001": {
+        "title": "Honours Numerical Analysis.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "WF",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "40",
+        "actual": "20",
+        "full reg rate": "0.5",
+        "instructor": [
+          "Gantumur Tsogtgerel"
+        ],
+        "location": "BURN 1205"
+      },
+      "002": {
+        "title": "Honours Numerical Analysis.",
+        "type": "Final Exam",
+        "credit": "0.000",
+        "days": "R",
+        "time": "09:05 AM-11:55 AM",
+        "capital": "20",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "BURN 1B23"
+      }
+    },
+    "MATH 410": {
+      "001": {
+        "title": "Majors Project.",
+        "type": "Project",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Djivede Armel Kelome",
+          "Yi Yang"
+        ],
+        "location": "TBA"
+      },
+      "002": {
+        "title": "Majors Project.",
+        "type": "Project",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Djivede Armel Kelome",
+          "Yi Yang"
+        ],
+        "location": "TBA"
+      },
+      "003": {
+        "title": "Majors Project.",
+        "type": "Project",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Djivede Armel Kelome",
+          "Russell Steele"
+        ],
+        "location": "TBA"
+      }
+    },
+    "MATH 420": {
+      "001": {
+        "title": "Independent Study.",
+        "type": "Independent Study",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Axel W Hundemer",
+          "Dmitry Jakobson"
+        ],
+        "location": "TBA"
+      },
+      "002": {
+        "title": "Independent Study.",
+        "type": "Independent Study",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Axel W Hundemer",
+          "Tim Hoheisel"
+        ],
+        "location": "TBA"
+      }
+    },
+    "MATH 427": {
+      "001": {
+        "title": "Statistical Quality Control.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "01:05 PM-02:25 PM",
+        "capital": "55",
+        "actual": "26",
+        "full reg rate": "0.4727272727272727",
+        "instructor": [
+          "Christian Genest"
+        ],
+        "location": "BURN 1B23"
+      }
+    },
+    "MATH 430": {
+      "001": {
+        "title": "Mathematical Finance.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MW",
+        "time": "10:05 AM-11:25 AM",
+        "capital": "65",
+        "actual": "29",
+        "full reg rate": "0.4461538461538462",
+        "instructor": [
+          "Djivede Armel Kelome"
+        ],
+        "location": "BURN 1B39"
+      }
+    },
+    "MATH 437": {
+      "001": {
+        "title": "Mathematical Methods in Biology.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "TR",
+        "time": "01:05 PM-02:25 PM",
+        "capital": "30",
+        "actual": "17",
+        "full reg rate": "0.5666666666666667",
+        "instructor": [
+          "Anmar Khadra"
+        ],
+        "location": "MCMED 1027"
+      },
+      "002": {
+        "title": "Mathematical Methods in Biology.",
+        "type": "Final Exam",
+        "credit": "0.000",
+        "days": "T",
+        "time": "02:05 PM-04:55 PM",
+        "capital": "17",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "MCMED 1027"
+      }
+    },
+    "MATH 447": {
+      "001": {
+        "title": "Introduction to Stochastic Processes.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "08:35 AM-09:25 AM",
+        "capital": "100",
+        "actual": "89",
+        "full reg rate": "0.89",
+        "instructor": [
+          "Russell Steele"
+        ],
+        "location": "BURN 1B45"
+      }
+    },
+    "MATH 455": {
+      "001": {
+        "title": "Honours Analysis 4.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "08:35 AM-09:25 AM",
+        "capital": "55",
+        "actual": "29",
+        "full reg rate": "0.5272727272727272",
+        "instructor": [
+          "Jerome Vetois"
+        ],
+        "location": "BURN 1B24"
+      },
+      "002": {
+        "title": "Honours Analysis 4.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "M",
+        "time": "06:05 PM-07:55 PM",
+        "capital": "60",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "BURN 1B23"
+      }
+    },
+    "MATH 457": {
+      "001": {
+        "title": "Honours Algebra 4.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "MWF",
+        "time": "10:35 AM-11:25 AM",
+        "capital": "40",
+        "actual": "31",
+        "full reg rate": "0.775",
+        "instructor": [
+          "Marcin Sabok"
+        ],
+        "location": "BURN 920"
+      }
+    },
+    "MATH 458": {
+      "001": {
+        "title": "Honours Differential Geometry.",
+        "type": "Lecture",
+        "credit": "3.000",
+        "days": "WF",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "55",
+        "actual": "32",
+        "full reg rate": "0.5818181818181818",
+        "instructor": [
+          "Jacques Claude Hurtubise"
+        ],
+        "location": "BURN 1B24"
+      }
+    },
+    "MATH 470": {
+      "001": {
+        "title": "Honours Research Project.",
+        "type": "Project",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Djivede Armel Kelome",
+          "Anmar Khadra"
+        ],
+        "location": "TBA"
+      },
+      "002": {
+        "title": "Honours Research Project.",
+        "type": "Project",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Djivede Armel Kelome",
+          "Linan Chen"
+        ],
+        "location": "TBA"
+      },
+      "003": {
+        "title": "Honours Research Project.",
+        "type": "Project",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Djivede Armel Kelome",
+          "Yi Yang"
+        ],
+        "location": "TBA"
+      },
+      "004": {
+        "title": "Honours Research Project.",
+        "type": "Project",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Djivede Armel Kelome",
+          "Dmitry Jakobson"
+        ],
+        "location": "TBA"
+      },
+      "005": {
+        "title": "Honours Research Project.",
+        "type": "Project",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Djivede Armel Kelome",
+          "Eyal Z Goren"
+        ],
+        "location": "TBA"
+      },
+      "006": {
+        "title": "Honours Research Project.",
+        "type": "Project",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Djivede Armel Kelome",
+          "John A Toth"
+        ],
+        "location": "TBA"
+      },
+      "007": {
+        "title": "Honours Research Project.",
+        "type": "Project",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Djivede Armel Kelome",
+          "Linan Chen"
+        ],
+        "location": "TBA"
+      },
+      "008": {
+        "title": "Honours Research Project.",
+        "type": "Project",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Djivede Armel Kelome",
+          "Rustum Choksi"
+        ],
+        "location": "TBA"
+      },
+      "009": {
+        "title": "Honours Research Project.",
+        "type": "Project",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Djivede Armel Kelome",
+          "Piotr Przytycki"
+        ],
+        "location": "TBA"
+      }
+    },
+    "MATH 480": {
+      "001": {
+        "title": "Honours Independent Study.",
+        "type": "Independent Study",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Axel W Hundemer",
+          "Eyal Z Goren"
+        ],
+        "location": "TBA"
+      },
+      "002": {
+        "title": "Honours Independent Study.",
+        "type": "Independent Study",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Axel W Hundemer",
+          "Eyal Z Goren"
+        ],
+        "location": "TBA"
+      },
+      "003": {
+        "title": "Honours Independent Study.",
+        "type": "Independent Study",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Axel W Hundemer",
+          "Tim Hoheisel"
+        ],
+        "location": "TBA"
+      },
+      "004": {
+        "title": "Honours Independent Study.",
+        "type": "Independent Study",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Axel W Hundemer",
+          "Linan Chen"
+        ],
+        "location": "TBA"
+      },
+      "005": {
+        "title": "Honours Independent Study.",
+        "type": "Independent Study",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Axel W Hundemer",
+          "Tim Hoheisel"
+        ],
+        "location": "TBA"
+      },
+      "006": {
+        "title": "Honours Independent Study.",
+        "type": "Independent Study",
+        "credit": "3.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Axel W Hundemer",
+          "Bogdan Nica"
+        ],
+        "location": "TBA"
+      }
+    },
+    "MATH 523": {
+      "001": {
+        "title": "Generalized Linear Models.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "TR",
+        "time": "10:05 AM-11:25 AM",
+        "capital": "59",
+        "actual": "51",
+        "full reg rate": "0.864406779661017",
+        "instructor": [
+          "Johanna Neslehova"
+        ],
+        "location": "BURN 1B24"
+      }
+    },
+    "MATH 537": {
+      "001": {
+        "title": "Honours Mathematical Models in Biology.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "TR",
+        "time": "01:05 PM-02:25 PM",
+        "capital": "10",
+        "actual": "2",
+        "full reg rate": "0.2",
+        "instructor": [
+          "Anmar Khadra"
+        ],
+        "location": "MCMED 1027"
+      },
+      "002": {
+        "title": "Honours Mathematical Models in Biology.",
+        "type": "Final Exam",
+        "credit": "0.000",
+        "days": "T",
+        "time": "02:05 PM-04:55 PM",
+        "capital": "2",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "MCMED 1027"
+      }
+    },
+    "MATH 547": {
+      "001": {
+        "title": "Stochastic Processes.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "TR",
+        "time": "08:35 AM-09:55 AM",
+        "capital": "40",
+        "actual": "17",
+        "full reg rate": "0.425",
+        "instructor": [
+          "Dana Louis Addario-Berry"
+        ],
+        "location": "BURN 1B24"
+      },
+      "002": {
+        "title": "Stochastic Processes.",
+        "type": "Final Exam",
+        "credit": "0.000",
+        "days": "W",
+        "time": "09:05 AM-11:55 AM",
+        "capital": "17",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "BURN 1B23"
+      }
+    },
+    "MATH 550": {
+      "001": {
+        "title": "Combinatorics.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "TR",
+        "time": "01:05 PM-02:25 PM",
+        "capital": "25",
+        "actual": "15",
+        "full reg rate": "0.6",
+        "instructor": [
+          "Sergey Norin"
+        ],
+        "location": "BURN 1205"
+      }
+    },
+    "MATH 552": {
+      "001": {
+        "title": "Combinatorial Optimization.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "TR",
+        "time": "08:35 AM-09:55 AM",
+        "capital": "25",
+        "actual": "2",
+        "full reg rate": "0.08",
+        "instructor": [
+          "Yaqiao Li"
+        ],
+        "location": "ENGMC 103"
+      }
+    },
+    "MATH 557": {
+      "001": {
+        "title": "Mathematical Statistics 2.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "TR",
+        "time": "08:35 AM-09:55 AM",
+        "capital": "40",
+        "actual": "17",
+        "full reg rate": "0.425",
+        "instructor": [
+          "Abbas Khalili Mahmoudabadi"
+        ],
+        "location": "BURN 920"
+      },
+      "002": {
+        "title": "Mathematical Statistics 2.",
+        "type": "Final Exam",
+        "credit": "0.000",
+        "days": "R",
+        "time": "09:05 AM-11:55 AM",
+        "capital": "17",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "BURN 1B24"
+      }
+    },
+    "MATH 560": {
+      "001": {
+        "title": "Optimization.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "WF",
+        "time": "10:05 AM-11:25 AM",
+        "capital": "46",
+        "actual": "22",
+        "full reg rate": "0.4782608695652174",
+        "instructor": [
+          "Tim Hoheisel"
+        ],
+        "location": "ENGTR 1100"
+      },
+      "002": {
+        "title": "Optimization.",
+        "type": "Midterm Exam",
+        "credit": "0.000",
+        "days": "F",
+        "time": "09:35 AM-11:25 AM",
+        "capital": "54",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "ENGTR 1100"
+      }
+    },
+    "MATH 565": {
+      "001": {
+        "title": "Advanced Real Analysis 2.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "T",
+        "time": "01:05 PM-02:25 PM",
+        "capital": "20",
+        "actual": "8",
+        "full reg rate": "0.4",
+        "instructor": [
+          "John A Toth"
+        ],
+        "location": "BURN 1214"
+      }
+    },
+    "MATH 571": {
+      "001": {
+        "title": "Higher Algebra 2.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "MWF",
+        "time": "08:35 AM-10:25 AM",
+        "capital": "20",
+        "actual": "5",
+        "full reg rate": "0.25",
+        "instructor": [
+          "Henri Darmon"
+        ],
+        "location": "BURN 920"
+      }
+    },
+    "MATH 577": {
+      "001": {
+        "title": "Geometry and Topology 2.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "TR",
+        "time": "01:05 PM-02:25 PM",
+        "capital": "25",
+        "actual": "10",
+        "full reg rate": "0.4",
+        "instructor": [
+          "Niky Kamran"
+        ],
+        "location": "BURN 920"
+      },
+      "002": {
+        "title": "Geometry and Topology 2.",
+        "type": "Final Exam",
+        "credit": "0.000",
+        "days": "F",
+        "time": "02:05 PM-04:55 PM",
+        "capital": "10",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [],
+        "location": "BURN 1205"
+      }
+    },
+    "MATH 579": {
+      "001": {
+        "title": "Numerical Differential Equations.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "TR",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "25",
+        "actual": "18",
+        "full reg rate": "0.72",
+        "instructor": [
+          "Adam M. Oberman"
+        ],
+        "location": "BURN 1205"
+      }
+    },
+    "MATH 581": {
+      "001": {
+        "title": "Partial Differential Equations 2.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "R",
+        "time": "12:05 PM-01:25 PM",
+        "capital": "20",
+        "actual": "8",
+        "full reg rate": "0.4",
+        "instructor": [
+          "Dmitry Jakobson"
+        ],
+        "location": "BURN 1234"
+      }
+    },
+    "MATH 595": {
+      "001": {
+        "title": "*TOPICS IN C*-ALGEBRAS",
+        "type": "Topics Course",
+        "credit": "4.000",
+        "days": "T",
+        "time": "05:35 PM-06:55 PM",
+        "capital": "20",
+        "actual": "10",
+        "full reg rate": "0.5",
+        "instructor": [
+          "Vojkan Jaksic"
+        ],
+        "location": "BURN 920"
+      }
+    },
+    "MATH 596": {
+      "001": {
+        "title": "Topics in Algebra & Number Theory.",
+        "type": "Topics Course",
+        "credit": "4.000",
+        "days": "MWF",
+        "time": "01:35 PM-02:25 PM",
+        "capital": "20",
+        "actual": "7",
+        "full reg rate": "0.35",
+        "instructor": [
+          "Eyal Z Goren"
+        ],
+        "location": "BURN 1205"
+      },
+      "002": {
+        "title": "Topics in Algebra & Number Theory.",
+        "type": "Topics Course",
+        "credit": "4.000",
+        "days": "T",
+        "time": "11:35 AM-12:55 PM",
+        "capital": "15",
+        "actual": "10",
+        "full reg rate": "0.6666666666666666",
+        "instructor": [
+          "Daniel T. Wise"
+        ],
+        "location": "BURN 708"
+      }
+    },
+    "MATH 598": {
+      "001": {
+        "title": "Topics in Probability and Statistics.",
+        "type": "Topics Course",
+        "credit": "4.000",
+        "days": "WF",
+        "time": "10:05 AM-11:25 AM",
+        "capital": "10",
+        "actual": "8",
+        "full reg rate": "0.8",
+        "instructor": [
+          "David Alan Stephens"
+        ],
+        "location": "BURN 1234"
+      }
+    },
+    "MATH 599": {
+      "001": {
+        "title": "Topics in Geometry & Topology.",
+        "type": "Topics Course",
+        "credit": "4.000",
+        "days": "TR",
+        "time": "10:05 AM-11:25 AM",
+        "capital": "14",
+        "actual": "12",
+        "full reg rate": "0.8571428571428571",
+        "instructor": [
+          "Piotr Przytycki"
+        ],
+        "location": "BURN 1205"
+      },
+      "002": {
+        "title": "Topics in Geometry & Topology.",
+        "type": "Topics Course",
+        "credit": "4.000",
+        "days": "TR",
+        "time": "02:35 PM-03:55 PM",
+        "capital": "20",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [
+          "Daniel T. Wise"
+        ],
+        "location": "BURN 708"
+      },
+      "003": {
+        "title": "Topics in Geometry & Topology.",
+        "type": "Final Exam",
+        "credit": "0.000",
+        "days": "M",
+        "time": "09:05 AM-11:55 AM",
+        "capital": "12",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [
+          "Piotr Przytycki"
+        ],
+        "location": "BURN 1205"
+      }
+    },
+    "MATH 600": {
+      "001": {
+        "title": "Master's Thesis Research 1.",
+        "type": "Thesis Course",
+        "credit": "6.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "15",
+        "actual": "6",
+        "full reg rate": "0.4",
+        "instructor": [],
+        "location": "TBA"
+      }
+    },
+    "MATH 601": {
+      "001": {
+        "title": "Master's Thesis Research 2.",
+        "type": "Thesis Course",
+        "credit": "6.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "15",
+        "actual": "5",
+        "full reg rate": "0.3333333333333333",
+        "instructor": [],
+        "location": "TBA"
+      }
+    },
+    "MATH 602": {
+      "001": {
+        "title": "Master's Research Preparation.",
+        "type": "Research Course",
+        "credit": "6.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "5",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [
+          "Dmitry Jakobson"
+        ],
+        "location": "TBA"
+      }
+    },
+    "MATH 604": {
+      "001": {
+        "title": "Master's Thesis Research 3.",
+        "type": "Thesis Course",
+        "credit": "6.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "15",
+        "actual": "10",
+        "full reg rate": "0.6666666666666666",
+        "instructor": [],
+        "location": "TBA"
+      }
+    },
+    "MATH 605": {
+      "001": {
+        "title": "Master's Thesis Research 4.",
+        "type": "Thesis Course",
+        "credit": "6.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "15",
+        "actual": "13",
+        "full reg rate": "0.8666666666666667",
+        "instructor": [],
+        "location": "TBA"
+      }
+    },
+    "MATH 640": {
+      "001": {
+        "title": "Project 1.",
+        "type": "Project",
+        "credit": "8.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "15",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [
+          "Dmitry Jakobson"
+        ],
+        "location": "TBA"
+      }
+    },
+    "MATH 641": {
+      "001": {
+        "title": "Project 2.",
+        "type": "Project",
+        "credit": "8.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "15",
+        "actual": "0",
+        "full reg rate": "0.0",
+        "instructor": [
+          "Dmitry Jakobson"
+        ],
+        "location": "TBA"
+      }
+    },
+    "MATH 669D2": {
+      "001": {
+        "title": "CSE Seminar.",
+        "type": "Seminar",
+        "credit": "0.500",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Jean-Christophe Nave"
+        ],
+        "location": "TBA"
+      }
+    },
+    "MATH 680": {
+      "001": {
+        "title": "Computation Intensive Statistics.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "MW",
+        "time": "03:35 PM-04:55 PM",
+        "capital": "30",
+        "actual": "18",
+        "full reg rate": "0.6",
+        "instructor": [
+          "Yi Yang"
+        ],
+        "location": "BURN 1214"
+      }
+    },
+    "MATH 686": {
+      "001": {
+        "title": "Survival Analysis.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "TR",
+        "time": "10:35 AM-11:55 AM",
+        "capital": "10",
+        "actual": "4",
+        "full reg rate": "0.4",
+        "instructor": [
+          "Masoud Asgharian-Dastenaei"
+        ],
+        "location": "BURN 1234"
+      }
+    },
+    "MATH 691": {
+      "001": {
+        "title": "Reading Course in Geometry/Topology.",
+        "type": "Reading Course",
+        "credit": "4.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Niky Kamran"
+        ],
+        "location": "TBA"
+      }
+    },
+    "MATH 693": {
+      "001": {
+        "title": "Reading Course in Analysis.",
+        "type": "Reading Course",
+        "credit": "4.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Linan Chen"
+        ],
+        "location": "TBA"
+      }
+    },
+    "MATH 697": {
+      "001": {
+        "title": "Reading Course In Statistics: Graphical Models",
+        "type": "Reading Course",
+        "credit": "4.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "2",
+        "actual": "2",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Johanna Neslehova"
+        ],
+        "location": "TBA"
+      },
+      "002": {
+        "title": "Reading Course in Statistics: Empirical Process Theory",
+        "type": "Reading Course",
+        "credit": "4.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "1",
+        "actual": "1",
+        "full reg rate": "1.0",
+        "instructor": [
+          "Linan Chen"
+        ],
+        "location": "TBA"
+      }
+    },
+    "MATH 700": {
+      "001": {
+        "title": "Ph.D. Preliminary Examination Part A.",
+        "type": "Comprehensive Exam",
+        "credit": "0.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "15",
+        "actual": "2",
+        "full reg rate": "0.13333333333333333",
+        "instructor": [
+          "Dmitry Jakobson"
+        ],
+        "location": "TBA"
+      }
+    },
+    "MATH 701": {
+      "001": {
+        "title": "Ph.D. Preliminary Examination Part B.",
+        "type": "Comprehensive Exam",
+        "credit": "0.000",
+        "days": " ",
+        "time": "TBA",
+        "capital": "15",
+        "actual": "5",
+        "full reg rate": "0.3333333333333333",
+        "instructor": [
+          "Dmitry Jakobson"
+        ],
+        "location": "TBA"
+      }
+    },
+    "MATH 726": {
+      "001": {
+        "title": "Advanced Topics in Number Theory.",
+        "type": "Lecture",
+        "credit": "4.000",
+        "days": "WF",
+        "time": "02:35 PM-03:55 PM",
+        "capital": "20",
+        "actual": "3",
+        "full reg rate": "0.15",
+        "instructor": [
+          "Corentin Perret-Gentil-dit-Maillard"
+        ],
+        "location": "BURN 1234"
+      }
+    }
+  }
