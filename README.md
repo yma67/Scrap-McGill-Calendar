@@ -1,6 +1,26 @@
 # crawl_mcgill_course
 Collect course information using web crawler for McGill E-Calendar and Minerva (Administration system). 
 
+## Prerequesite
+### Python 3
+Using Homebrew <br>
+```
+brew install python
+```
+
+### Beautifulsoup 4
+```
+pip3 install beautifulsoup4
+```
+
+### Selenium 
+```
+pip3 install selenium
+```
+
+### FireFox
+[download](https://www.mozilla.org/en-US/firefox/new/)
+
 ## E-Calendar
 ```
 python3 craw_mcgill_ecalendr.py
@@ -26,7 +46,7 @@ python3 crawl_minerva.py
 
 * Every section of course, including lecture, project, tutorial, labs, and others is an entry of a dictionary by course code. 
 * There is a [sample data set](crawl_mcgill_course/craw_minerva/ecse_course_reg_info.json) for ECSE department in Winter 2018 
-* ```
+```json
   "ECSE 436": {
     "001": {
       "title": "Signal Processing Hardware.",
@@ -55,9 +75,9 @@ python3 crawl_minerva.py
       "location": "ENGTR 4180"
     }
   },
-  ```
+```
 ### Version 1: Iterate all department at once
-* To write input file username_pswd.txt file
+* To write input file [username_pswd.txt](crawl_mcgill_course/craw_minerva/username_pswd.txt) file
 ```
 /*your McGill email goes here*/
 /*your McGill password goes here*/
@@ -73,7 +93,7 @@ firstname.lastname@mail.mcgill.ca
 ```
 
 ### Version 2: Specifically collect one department
-* To write input file username_pswd_by_dept.txt file
+* To write input file [username_pswd_by_dept.txt](crawl_mcgill_course/craw_minerva/username_pswd_by_dept.txt) file
 ```
 /*your McGill email goes here*/
 /*your McGill password goes here*/
@@ -91,11 +111,10 @@ MATH
 ```
 
 ## Built With
-
-* Python 2: Minerva
 * Python 3: E-Calendar, Minerva
 * Beautifulsoup 4: Both
 * Selenium: Minerva
+* Firefox: Minerva
 
 ## Author
 
