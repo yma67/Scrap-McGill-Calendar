@@ -57,7 +57,7 @@ python3 crawl_minerva.py
   },
   ```
 ### Version 1: Iterate all department at once
-* To write a input .txt file
+* To write input file username_pswd.txt file
 ```
 /*your McGill email goes here*/
 /*your McGill password goes here*/
@@ -73,7 +73,7 @@ firstname.lastname@mail.mcgill.ca
 ```
 
 ### Version 2: Specifically collect one department
-* To write a input .txt file
+* To write input file username_pswd_by_dept.txt file
 ```
 /*your McGill email goes here*/
 /*your McGill password goes here*/
