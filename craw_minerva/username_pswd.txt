@@ -1,3 +1,4 @@
 /*your McGill email goes here*/
 /*your McGill password goes here*/
 /*determine latency between requests, too fast obeys McGill rules*/
+/*Years and Terms: YYYYTT, Winter: 01, Fall: 09, Summer: 05, example: Winter 2018: 201801*/
